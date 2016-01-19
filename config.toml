@@ -1,0 +1,46 @@
+BaseUrl= "http://www.universe.wales/"
+LanguageCode= "en-GB"
+Title= "Universe in the Classroom"
+paginate = 5
+footer = "Copyright 2015 &copy; Universe in the Classroom, Cardiff University"
+canonifyurls = true
+
+[permalinks]
+
+    # Permalink format for pages.
+    page = "/:title/"
+
+    # Permalink format for blog posts.
+    post = "/news/:title/"
+
+[params]
+  description = "this is my description"
+  cover = "images/cover.jpg"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  hideHUGOSupport = true
+  DateForm = ""
+  twitter = "http://twitter.com/unawe_cy"
+  colorscheme = "teal"
+
+[Date]
+    Format = "yyyy-mm-dd"
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "News & Events"
+    url = "/news/"
+    weight = 1
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
