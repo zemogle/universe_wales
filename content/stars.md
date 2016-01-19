@@ -1,6 +1,6 @@
 +++
 date = "2015-12-12T17:43:27Z"
-draft = true
+draft = false
 title = "Stellar Role Models"
 
 +++

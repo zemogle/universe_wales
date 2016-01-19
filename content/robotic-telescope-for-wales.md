@@ -1,6 +1,6 @@
 +++
 date = "2015-12-12T17:43:38Z"
-draft = true
+draft = false
 title = "Robotic Telescope for Wales"
 
 +++
