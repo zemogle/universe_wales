@@ -7,13 +7,20 @@ title = "Educational Resources"
 
 We invite you to browse through the following resources used in Universe in the Classroom. If you have any comments or questions about the resources we offer, please contact us at unawe@astro.cf.ac.uk
 
-- [Universe in a Box](/universe-in-a-box/): Information about the Universe-in-a-Box toolkits, a DIY guide to building your own box and associated classroom activities
+<dl>
+  <dt><a href="/universe-in-a-box/">Universe in a Box</a></dt>
+  <dd> Information about the Universe-in-a-Box toolkits, a DIY guide to building your own box and associated classroom activities.</dd>
 
-- [Robotic Telescopes](/robotic-telescope-for-wales/): Information about the Las Cumbres Observatory robotic telescopes and associated classroom activities
+  <dt>[Robotic Telescopes](/robotic-telescope-for-wales/)</dt>
+  <dd>Information about the Las Cumbres Observatory robotic telescopes and associated classroom activities.</dd>
 
-- [Print Resources](/print-resources/): A variety of activity booklets, educational comics and DIY models for young children.
+  <dt>[Print Resources](/print-resources/)</dt>
+  <dd>A variety of activity booklets, educational comics and DIY models for young children</dd>
 
-- [Useful Links](/links/): Recommended websites and materials for primary school science education
+  <dt>[Useful Links](/links/)</dt>
+  <dd>Recommended websites and materials for primary school science education.</dd>
+</dl>
+
 
 Universe in the Classroom offers a variety of astronomy educational resources and materials to support primary school teachers in their classroom. The resources include two activity books filled with a variety of demonstrations, hands-on activities, scientific investigations, games and worksheets. Cosmos in your Pocket and Telescope in your Pocket are two small booklets for children, filled with a range of engaging and fun astronomy education games.
 

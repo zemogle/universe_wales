@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
-<section id="article-listing">
+<div class="section">
+  <div class="container">
+    <div class="row" style="margin-top:1.5em;">
       <ol class="post-list">
         {{ $pag := .Paginate .Data.Pages }}
         {{ range $pag.Pages }}
@@ -8,11 +10,12 @@
             on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong> by <strong>{{ .Site.Author.name }}</strong>
         </span>
         {{ end }}
-    </ol>
+      </ol>
 
     <div class="post-navigation">
       {{ template "_internal/pagination.html" . }}
     </div>
-</section>
-
+  </div>
+</div>
+</div>
 {{ partial "footer.html" . }}

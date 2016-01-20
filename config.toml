@@ -2,7 +2,7 @@ BaseUrl= "http://www.universe.wales/"
 LanguageCode= "en-GB"
 Title= "Universe in the Classroom"
 paginate = 5
-footer = "Copyright 2015 &copy; Universe in the Classroom, Cardiff University"
+Copyright = "Copyright 2015 - Universe in the Classroom, Cardiff University"
 canonifyurls = true
 
 [permalinks]
