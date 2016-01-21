@@ -5,10 +5,10 @@
       <ol class="post-list">
         {{ $pag := .Paginate .Data.Pages }}
         {{ range $pag.Pages }}
-        <span class="article-title"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        <li><span class="article-title"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
         <span class="article-info">
-            on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong> by <strong>{{ .Site.Author.name }}</strong>
-        </span>
+            on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong>
+        </span></li>
         {{ end }}
       </ol>
 

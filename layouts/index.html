@@ -27,26 +27,43 @@
     </head>
     <body>
       <div class="container">
+      <div class="row">
       <div id="header-banner">
-            <img src="{{ "/images/logo_md.png" | absURL }}" alt="Universe in the Classroom logo" />
+          <div class="column">
+            <img src="{{ "/images/logo_md.png" | absURL }}" alt="Universe in the Classroom logo" class="u-max-full-width"/>
+          </div>
         </div>
       </div>
+    </div>
 
       <div class="container">
-        <div class="row">
+        <div class="row front-options">
           <div class="four columns value-prop">
-            <h3><a href="">News & Events</a></h3>
-            Project news and up-coming training events.
-          </div>
-          <div class="four columns value-prop">
+            <span class="fa-stack fa-lg fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+            </span>
             <h3><a href="/resources/">Resources</a></h3>
             Print media and online resources.
           </div>
           <div class="four columns value-prop">
+            <span class="fa-stack fa-lg fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-newspaper-o fa-stack-1x fa-inverse"></i>
+            </span>
+            <h3><a href="/news/">News & Events</a></h3>
+            Project news and up-coming training events.
+          </div>
+          <div class="four columns value-prop">
+            <span class="fa-stack fa-lg fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+            </span>
             <h3><a href="/contact/">Contact</a></h3>
             If you would like to join Universe in the Classroom, please contact us.
           </div>
         </div>
+        <hr>
       </div>
 
 
@@ -55,6 +72,7 @@
           <div class="section">
             <div class="container">
               <div class="row">
+                <h2>{{ .Title }}</h2>
               {{ .Content }}
             </div>
           </div>
@@ -67,7 +85,7 @@
               {{ range $paginator.Pages }}
                   <h3 class="article-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                   <p class="article-info">
-                      on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong> by <strong>{{ .Site.Author.name }}</strong>
+                      on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong> by <strong>{{ .author }}</strong>
                   </p>
                   <p class="article-summary">{{ .Summary }}</p>
                   {{ if .Truncated }}<a href="{{ .Permalink }}"><p class="article-read-more"><a href="{{ .Permalink }}">Read more &rarr;</a></p>{{ end }}

@@ -1,7 +1,7 @@
 +++
 date = "2016-01-19T15:25:29Z"
 draft = false
-title = "Home"
+title = "Welcome"
 
 tags = ['home']
 +++
