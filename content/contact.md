@@ -5,6 +5,8 @@ title = "Contact Us"
 
 +++
 
-![Sarah](/images/sarah-contact.jpg)
-![Edward](/images/edward-contact.jpg)
-![Haley](/images/haley-contact.jpg)
+![Sarah](/images/sarah-contact.png)
+
+![Edward](/images/edward-contact.png)
+
+![Haley](/images/haley-contact.png)
