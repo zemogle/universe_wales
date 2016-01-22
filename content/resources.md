@@ -5,25 +5,27 @@ title = "Educational Resources"
 
 +++
 
-We invite you to browse through the following resources used in Universe in the Classroom. If you have any comments or questions about the resources we offer, please contact us at unawe@astro.cf.ac.uk
+We invite you to browse through the following *Universe in the Classroom* resources. These hands-on and digital materials have been designed to support the teaching of Astronomy in primary schools, however they also cover a variety of topics from the following subjects: Science, ICT, English, Welsh, Maths and Art, with a special emphasis on Numeracy and Literacy.
 
-<dl>
-  <dt><a href="/universe-in-a-box/">Universe in a Box</a></dt>
-  <dd> Information about the Universe-in-a-Box toolkits, a DIY guide to building your own box and associated classroom activities.</dd>
+If you have any comments or questions about the materials we offer, please contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk)
 
-  <dt>[Robotic Telescopes](/robotic-telescope-for-wales/)</dt>
-  <dd>Information about the Las Cumbres Observatory robotic telescopes and associated classroom activities.</dd>
+##### [Activities](/activities/)
 
-  <dt>[Print Resources](/print-resources/)</dt>
-  <dd>A variety of activity booklets, educational comics and DIY models for young children</dd>
+Teacher guides, student worksheets and supporting material for a range of hands-on and digital astronomy-based classroom activities.
 
-  <dt>[Useful Links](/links/)</dt>
-  <dd>Recommended websites and materials for primary school science education.</dd>
-</dl>
+##### [Universe in a Box](/universe-in-a-box/)
 
+Information about the Universe-in-a-Box toolkit and a DIY guide to building a low-cost astronomy toolkit for your classroom.
 
-Universe in the Classroom offers a variety of astronomy educational resources and materials to support primary school teachers in their classroom. The resources include two activity books filled with a variety of demonstrations, hands-on activities, scientific investigations, games and worksheets. Cosmos in your Pocket and Telescope in your Pocket are two small booklets for children, filled with a range of engaging and fun astronomy education games.
+##### [Robotic Telescopes](/robotic-telescope-for-wales/)
 
-Additionally, we have designed a model of a robotic telescope that can be printed and built by young children so that can own their very own 1-metre telescope.  Finally, the beautifully illustrated comic book ‘There’s No Such Thing As A Stupid Queston” is available to download and print. This excellent piece of artwork teaches children and adults alike that curiosity is a value to be cherished not dampened.
+Information about how to access the Las Cumbres Observatory robotic telescopes and explore the Universe with your students.
 
-To help bring the subject into the classroom we have linked these activities to subjects in the curriculum such as Science, ICT, English, Welsh, Maths and Art, with an emphasis on Numeracy and Literacy.
+##### [Print Resources](/print-resources/)
+
+A variety of activity booklets, educational comics and cut-out models that are both educational and fun!
+
+##### [Useful Links](/links/)
+
+Recommended websites and materials to support science education for Key Stages 1 and 2. 
+
