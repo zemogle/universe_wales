@@ -11,10 +11,6 @@ body {
   font-size: 1.6em;
 }
 
-li {
-  list-style: none;
-}
-
 a, a:visited {
   color: #a30000;
   text-decoration: none;

@@ -13,11 +13,11 @@ In 2014, *Universe in the Classroom* handed 100 free Universe-in-a-Box toolkits 
 
 The comprehensive activity book includes all necessary background information, “how-to” steps, guidance on further experimentation and craft templates to cover five modules in the classrom: 
  
-	-Our Fascinating Moon, 
-	-The Earth: Our Home Planet, 
-	-The Sun: Our Home Star, 
-	-Our Solar System, 
-	-The World of Constellations. 
+- Our Fascinating Moon, 
+- The Earth: Our Home Planet, 
+- The Sun: Our Home Star, 
+- Our Solar System, 
+- The World of Constellations. 
 
 The Universe-in-a-Box Activity Book is available online at [http://www.unawe.org/resources/universebox/](http://www.unawe.org/resources/universebox/)
 
