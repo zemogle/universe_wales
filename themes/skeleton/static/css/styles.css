@@ -3,11 +3,16 @@
     src: url(/fonts/BowlbyOneSC-Regular.ttf);
 }
 
+@font-face {
+    font-family: Exo;
+    src: url(/fonts/Exo-Regular.ttf);
+}
+
 body {
   background: url('/images/bg_texture3.png') repeat-x;
   height: 100%;
   margin: 0;
-  font-family: Georgia,"Times New Roman",Times,serif;
+  font-family: Exo, Georgia,"Times New Roman",Times,serif;
   font-size: 1.6em;
 }
 
