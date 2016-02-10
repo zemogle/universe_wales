@@ -14,7 +14,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [How Light Travels](/light/)
 
-##### [Light Sources](/lightsource/)
+##### [Light Sources](/lightsources/)
 
 ##### [Human Eye vs. Robotic Telescope](/eyevstelescope/)
 
@@ -22,7 +22,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Space Scoop Storytelling](/storytelling/)
 
-##### [Size of the Solar System](/solarsystemscale/)
+##### [Size of the Solar System](/solar-system-scale/)
 
 ##### [Design a Galaxy](/galaxydesign/)
 

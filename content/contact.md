@@ -3,6 +3,7 @@ date = "2016-01-25T17:43:27Z"
 draft = false
 title = "Meet the Team"
 
+tags = ['contact'] 
 +++
 
 ![Sarah](/images/sarah-contact.png)
