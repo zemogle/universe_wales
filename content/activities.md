@@ -12,7 +12,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Messier Bingo](/messier-bingo/)
 
-##### [How Light Travels](/light/)
+##### [How Light Travels](/how-light-travels/)
 
 ##### [Light Sources](/lightsources/)
 
@@ -24,11 +24,11 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Size of the Solar System](/solar-system-scale/)
 
-##### [Design a Galaxy](/galaxydesign/)
+##### [Design a Galaxy](/galaxy-design/)
 
 ##### [Galaxy Shape Poem](/galaxypoem/)
 
-##### [Discover Time Zones](/timezones/)
+##### [Discover Time Zones](/time-zones/)
 
 ##### [The Hemisphere](hemispheres/)
 
