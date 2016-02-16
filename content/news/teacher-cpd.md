@@ -8,7 +8,7 @@ tags = ['teacher-cpd']
 
 The Universe is awe-inspiring and captures the imagination of children better than almost any other subject, making it a great stepping-stone to introduce youngsters to science and technology. Indeed, many scientists can trace their interest in science to a moment as a young child when they were first introduced to the wonders of the cosmos. 
 
-*Universe in the Classroom* is providing innovative tools to welsh primary schools to modernise and enhance the way STEMM subjects (science, technology, engineering, medicine and mathematics) are taught. Our resources include Universe-in-a-Box educatitonal toolkits, dozens of enquiry-based learning activities, a host of print materials and, most recently, access to a network of professional Robotic Telescopes.
+*Universe in the Classroom* is providing innovative tools to welsh primary schools to modernise and enhance the way STEM subjects (science, technology, engineering, medicine and mathematics) are taught. Our resources include Universe-in-a-Box educational toolkits, dozens of enquiry-based learning activities, a host of print materials and, most recently, access to a network of professional Robotic Telescopes.
 
 As well as these inspirational resources, the programme offers free STEM workshops to ensure teachers have the confidence and knowledge to put the new resources to use in their classrooms. 
 
@@ -18,7 +18,7 @@ Our STEM workshops are professional development opportunities that aim to engage
 - **In-depth training** on using the resources to teach a range of curriculum subjects
 - Knowledge of how to use **robotic telescopes** from all over the world in your classroom
 - Examples of **cutting-edge science** that can be used in the classroom
-- **ability and confidence** to build upon the inspirational nature of space and astronomy through enquiry­-based learning 
+- **Ability and confidence** to build upon inspirational nature of space through enquiry­-based learning 
 - **Support** of a knowledgable and enthusiastic community of **professional scientists** and STEM **role models**. 
 
 ##### Workshop Schedule
@@ -63,7 +63,7 @@ If you believe your school would be interested in sending a teacher to this CPD 
 
 ##### Venue and logistics
 
-The meeting will be held at the School of Physics and astronomy, which is a 15-20 minute walk from Cardiff Central Station, and 5 minutes from Cardiff Queen Street. We have also produced a [map of the local are](http://blogs.cardiff.ac.uk/physicsoutreach/how-to-find-us/). The address is: Queen’s Buildings, The Parade, Cardiff, CF24 3AA.
+The meeting will be held at the School of Physics and astronomy, which is a 15-20 minute walk from Cardiff Central Station, and 5 minutes from Cardiff Queen Street. We have also produced a [map of the local area](http://blogs.cardiff.ac.uk/physicsoutreach/how-to-find-us/). The address is: Queen’s Buildings, The Parade, Cardiff, CF24 3AA.
 
 ##### More information
 
