@@ -14,7 +14,13 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 #### Impact Figures
 
-
+Participating Primary Schools | 105
+--- | ---
+Teachers Trained| 139
+Children Reached Directly | 1771 
+Stellar Role Models| 39 
+School Workshops Hosted | 41
+Teacher Workshops Hosted | 14 
 
 #### Progress Report 2014-2015 
 
@@ -29,7 +35,3 @@ If you’re a STEM student studying at Cardiff University and want to take part 
 ## [Partners](/partners/)
 
 This project is funded by the Welsh Government National Science Academy and is run in partnership with Cardiff University, Universe Awareness and Las Cumbres Observatory.
-
-## Participant Schools
-
-<script id="infogram_0_school_demographic" title="school demographic" src="//e.infogr.am/js/embed.js?Yxz" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/school_demographic" style="color:#989898!important;text-decoration:none!important;">school demographic</a><br><a style="color:#989898!important;text-decoration:none!important;" href="http://charts.infogr.am/bar-chart?utm_source=embed_bottom&utm_medium=seo&utm_campaign=bar_chart" target="_blank">Create bar charts</a></div>
