@@ -14,4 +14,4 @@ As well as inspirational school workshops, the programme offers free STEMM teach
 
 Make the most of this amazing opportunity by joining Universe in the Classroom and contact us at: [robertsS38@cardiff.ac.uk](mailto:robertsS38@cardiff.ac.uk) 
 
-### [Learn More](/about/)
+##### [Learn More About Universe in the Classroom](/about/)

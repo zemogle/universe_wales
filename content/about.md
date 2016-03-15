@@ -18,14 +18,18 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 #### Progress Report 2014-2015 
 
-<div data-configid="23072955/32759158" style="width:525px; height:340px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
 
 ## Get Involved
 
-If you’re interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at unawe@astro.cf.ac.uk.
+If you’re interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk).
 
 If you’re a STEM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at http://goo.gl/yLkZTN.
 
 ## [Partners](/partners/)
 
 This project is funded by the Welsh Government National Science Academy and is run in partnership with Cardiff University, Universe Awareness and Las Cumbres Observatory.
+
+## Participant Schools
+
+<script id="infogram_0_school_demographic" title="school demographic" src="//e.infogr.am/js/embed.js?Yxz" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/school_demographic" style="color:#989898!important;text-decoration:none!important;">school demographic</a><br><a style="color:#989898!important;text-decoration:none!important;" href="http://charts.infogr.am/bar-chart?utm_source=embed_bottom&utm_medium=seo&utm_campaign=bar_chart" target="_blank">Create bar charts</a></div>
