@@ -24,6 +24,8 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Size of the Solar System](/solar-system-scale/)
 
+##### [Build a Model Telescope](/model-telescope/)
+
 ##### [Design a Galaxy](/galaxy-design/)
 
 ##### [Galaxy Shape Poem](/galaxypoem/)
@@ -32,7 +34,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [The Hemisphere](hemispheres/)
 
-##### [Dark Skies and Light Pollution](/darkskies/)
+##### [Dark Skies and Light Pollution](/darksky/)
 
 ##### [Build Your Own Star Map](/planisphere/)
 

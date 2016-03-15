@@ -13,3 +13,5 @@ tags = ['home']
 As well as inspirational school workshops, the programme offers free STEMM teacher training to ensure teachers have the confidence and knowledge to put the new resources to use in their classrooms. Our resources include [Robotic Telescopes](/robotic-telescope-for-wales/), [Universe-in-a-Box](/universe-in-a-box/) educatitonal toolkits, dozens of enquiry-based learning [activities](/activities/) and a host of [print materials](/print-resources/). 
 
 Make the most of this amazing opportunity by joining Universe in the Classroom and contact us at: [robertsS38@cardiff.ac.uk](mailto:robertsS38@cardiff.ac.uk) 
+
+### [Learn More](/about/)

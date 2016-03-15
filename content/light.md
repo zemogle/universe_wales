@@ -12,7 +12,6 @@ Light is our window, not only to the distant Universe, but to the entire world a
 
 [**How Light Travels Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891a3NoQjhLOTZ3ZjQ/view?usp=sharing)
 
-
 ### Full Instructions
 
 ##### Learning Objectives

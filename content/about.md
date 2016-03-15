@@ -3,6 +3,7 @@ date = "2015-12-12T17:42:58Z"
 draft = false
 title = "About Us"
 
+tags = ['about']
 +++
 
 [Cardiff School of Physics and Astronomy](http://www.astro.cf.ac.uk) is reaching out to primary schools and communities across Wales, hoping to spark a curiosity about the Universe in young children.
@@ -23,8 +24,8 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 If you’re interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at unawe@astro.cf.ac.uk.
 
-If you’re a STEMM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at http://goo.gl/yLkZTN.
+If you’re a STEM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at http://goo.gl/yLkZTN.
 
-## Partners
+## [Partners](/partners/)
 
 This project is funded by the Welsh Government National Science Academy and is run in partnership with Cardiff University, Universe Awareness and Las Cumbres Observatory.

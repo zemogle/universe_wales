@@ -14,11 +14,13 @@ Schools involved in *Universe in the Classroom* are being offered a unique and e
 
 ## Supporting Materials
 
+##### [How to Observe with LCOGT](/observing-guide/)
+
  A core aspect of *Universe in the Classroom* is to help Welsh students (and their teachers) enjoy and explore the vast Universe using this robotic telescope network. A range of astronomy activities, guides and screencasts have been designed to support use of the robotic telescopes.
 
 #### Robotic Telescopes Activity Book
 
- T allows students to pursue their own science investigations using professional-quality equipment and cover a range of National Curriculum subjects to help teachers fit the activities and telescopes into their lesson plans.
+ The robotic telescopes activity book allows students to pursue their own science investigations using professional-quality equipment and cover a range of National Curriculum subjects to help teachers fit the activities and telescopes into their lesson plans.
 
 #### Screencasts 
 

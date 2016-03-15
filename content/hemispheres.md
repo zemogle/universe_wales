@@ -1,12 +1,16 @@
-rob+++
++++
 date = "2016-01-19T16:38:29Z"
 draft = false
 title = "The Hemispheres"
 
-tags = ['hemisphere']
+tags = ['hemispheres']
 +++
 
 Around 9000 stars are bright enough to be visible to the naked eye, but even in the most perfect observing site imaginable we can only see half of them at once. This is because the planet will always obscure some of the night sky from our view. This activity will explain this complex idea with a simple hands-on demonstration, while also explaining the important concepts of the Equator and the Hemispheres.
+
+[The Hemisphere Teacher Activity Guide](https://drive.google.com/file/d/0B42a91Be7891Q0dBM200dy0tNlk/view?usp=sharing)
+
+### Full Instructions
 
 #### Learning Objectives
 

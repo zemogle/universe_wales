@@ -15,6 +15,7 @@ Telescopes are much better at peering into the distant Universe than the human e
 ### Full Instructions
 
 ##### Learning Objectives
+
 - Investigate the capabilities of the human eye; including resolving power, refresh rate, light gathering area and field of view.
 - Compare the observational power of the human eye to that of a 1-metre LCOGT robotic telescope.
 - Carry out hands-on, enquiry-led investigations, compare and contrast, create and share conclusions and practise team-work skills.

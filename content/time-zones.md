@@ -12,6 +12,8 @@ Different parts of the planet experience different times, when it’s lunchtime 
 
 [Time Zones Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891T0o2WVlWZWlpc2s/view?usp=sharing)
 
+### Full Instructions
+
 ##### Learning Objectives
 
 - Students will understand the concept of time zones and become familiar with the following key terms: *Prime Meridian, Longitude, Time Zone*.

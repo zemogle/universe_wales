@@ -12,6 +12,8 @@ How long does it take to travel to the Moon? How long would it take to reach the
 
 [Scale of the Solar System Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891N0VZemtnRVJlWUE/view?usp=sharing)
 
+### Full Instructions
+
 ##### Learning Objectives
 
 - Develop an understanding of the scale of the Solar System, moving from the closest object to the farthest.

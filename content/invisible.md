@@ -14,6 +14,8 @@ In this activity students will explore invisible light using household objects. 
 
 [Invisible Light Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891dDVqSE1hT014Y1U/view?usp=sharing)
 
+### Full Instructions
+
 #### Learning Objectives
 
 - Understand that there are different types of light.

@@ -9,7 +9,6 @@ To carry out the ambitious goals of *Universe in the Classroom*, we invite enthu
 
 By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed.
 
-
 ## Who can be a Stellar Role Model?
 
 Anyone with a passionate for science, enthusiasm for education or an interest in gaining experience in communication and outreach could be STAR material. Stellar Role Models can be either BSc, MSc or PhD students of astronomy, physics, space science, mathematics, engineering or another relevant topic for Universe in the Classroom.

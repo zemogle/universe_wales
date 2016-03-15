@@ -12,6 +12,8 @@ In this activity students will use *Space Scoop*, astronomy children’s news st
 
 [Space Scoop Storytelling](https://drive.google.com/file/d/0B42a91Be7891eDB0dW1tZ01Bc2c/view?usp=sharing)
 
+### Full Instructions
+
 ##### Learning Objectives
 
 - Learn to identify and describe a range of astronomical objects,
