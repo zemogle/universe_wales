@@ -14,6 +14,8 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 #### Impact Figures
 
+![Impact Figures 03/2016](/images/Impact_figures.jpg/)
+
 Participating Primary Schools | 105
 --- | ---
 Teachers Trained| 139
