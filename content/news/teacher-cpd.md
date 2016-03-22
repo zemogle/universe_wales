@@ -1,7 +1,7 @@
 +++
 date = "2016-01-28T17:25:29Z"
 draft = false
-title = "STEM Workshops"
+title = "Teacher CPD Workshop Schedule"
 
 tags = ['teacher-cpd']
 +++
@@ -20,6 +20,14 @@ Our STEM workshops are professional development opportunities that aim to engage
 - Examples of **cutting-edge science** that can be used in the classroom
 - **Ability and confidence** to build upon inspirational nature of space through enquiry­-based learning 
 - **Support** of a knowledgable and enthusiastic community of **professional scientists** and STEM **role models**. 
+
+##### Upcoming Events
+
+Date: 25th May 2016
+
+Time: 10:30-15:00
+
+Location: Cardiff School of Physics and Astronomy
 
 ##### Workshop Schedule
 
@@ -44,14 +52,6 @@ Our STEM workshops are professional development opportunities that aim to engage
 14:45 - 15:00 Live Observing
 
 **15:00 End**
-
-##### Upcoming Events
-
-Date: 25th May 2016
-
-Time: 10:30-15:00
-
-Location: Cardiff School of Physics and Astronomy
 
 ##### Funding
 

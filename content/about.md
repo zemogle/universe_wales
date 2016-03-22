@@ -23,14 +23,13 @@ School Workshops Hosted | 41
 Teacher Workshops Hosted | 14 
 
 #### Progress Report 2014-2015 
-
 <br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
 
 ## Get Involved
 
-If you’re interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk).
+If you’re an educator interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk).
 
-If you’re a STEM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at http://goo.gl/yLkZTN.
+If you’re a STEM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at [http://goo.gl/yLkZTN](http://goo.gl/yLkZTN).
 
 ## [Partners](/partners/)
 
