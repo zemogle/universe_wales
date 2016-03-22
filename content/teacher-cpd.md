@@ -69,3 +69,24 @@ The meeting will be held at the School of Physics and astronomy, which is a 15-2
 
 If you would like any more information, please contact us at [robertsS38@cardiff.ac.uk](robertsS38@cardiff.ac.uk)
 
+##### Previous Events
+
+Event | Date | Duration | Location | No. of schools | No. of teachers 
+--- | --- | --- | --- | --- |
+Universe in the Classroom Twilight | 14 Jan 2014 | 2 hours | Techniquest, Cardiff | 9 | 11 
+Universe in the Classroom Twilight | 12 Feb 2014 | 2 hours | Techniquest, Wrehxm | 16 | 18 
+Universe in the Classroom Twilight | 25 Mar 2014 | 5 hours | Ysgol Pencae, Cardiff | 3 | 3
+Universe in the Classroom CPD | 27 Mar 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 9 | 9 
+Universe in the Classroom CPD | 8 Apr 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 5 | 6
+Universe in the Classroom Twilight | 9 Apr 2014 | 5 hours | Ysgol Maes Y Coed, Neath | 9 | 9
+Universe in the Classroom CPD | 6 May 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 6 | 8
+Universe in the Classroom CPD | 19 Jun 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 6 | 6
+Universe in the Classroom CPD | 2 Jul 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 5 | 5
+Universe in the Classroom CPD | 9 Oct 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 7 | 7
+Universe in the Classroom Twilight | 20 Oct 2014 | 2 hours | Venue Cymru, Llandudno | 5 | 5
+Universe in the Classroom CPD | 03 Dec 2015 | 5 hours | Centre of Alternative Tehcnology, Machynlleth | 9 | 10
+Universe in the Classroom CPD | 5 Dec 2014 | 5 hours | School of Physics and Astronomy, Cardiff University | 5 | 7
+Universe in the Classroom CPD | 10 Dec 2015 | 5 hours | School of Physics and Astronomy, Cardiff University | 8 | 8
+
+
+
