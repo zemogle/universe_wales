@@ -32,7 +32,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Discover Time Zones](/time-zones/)
 
-##### [The Hemisphere](hemispheres/)
+##### [The Hemisphere](/hemispheres/)
 
 ##### [Dark Skies and Light Pollution](/darksky/)
 
