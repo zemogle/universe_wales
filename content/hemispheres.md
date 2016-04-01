@@ -10,8 +10,6 @@ Around 9000 stars are bright enough to be visible to the naked eye, but even in 
 
 [The Hemisphere Teacher Activity Guide](https://drive.google.com/file/d/0B42a91Be7891Q0dBM200dy0tNlk/view?usp=sharing)
 
-### Full Instructions
-
 #### Learning Objectives
 
 - Identify the position and significance of the *Equator, Northern Hemisphere* and *Southern Hemisphere*.
