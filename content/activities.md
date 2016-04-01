@@ -38,8 +38,4 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Build Your Own Star Map](/planisphere/)
 
-##### [Robotic Telescope Activity Book](RTFW_activitybook)
-
-##### [Universe in a Box](/universe-in-a-box/)
-
 
