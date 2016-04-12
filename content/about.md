@@ -14,15 +14,16 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 #### Impact Figures
 
-![Impact Figures 03/2016](/images/Impact_figures.jpg/)
+![Impact Figures 03/2016](/images/Impact_figures_Mar2016.jpg)
 
 Participating Primary Schools | 105
 --- | ---
 Teachers Trained| 139
-Children Reached Directly | 1771 
+Children Reached Directly | 23100
 Stellar Role Models| 39 
 School Workshops Hosted | 41
 Teacher Workshops Hosted | 14 
+Children Reached Indirectly | 32971 
 
 #### Progress Report 2014-2015 
 <br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
