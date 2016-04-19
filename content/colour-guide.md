@@ -8,6 +8,8 @@ tags = ['colour-guide']
 
 We’re all familiar with the breathtaking, colourful images of the cosmos captured by famous telescopes such as the Hubble Space Telescope, they’re used in magazines, on advertisements, album covers and T-shirts. However, these images, like all astronomical photographs, were originally collected in black and white. The colour images are created by combining three separate black and white images; one taken with a green filter, one with a blue filter and one with a red filter. Red, green and blue are three primary colours that can simulate a full spectrum of visible light to the human eye.
 
+<iframe width="700" height="525" src="https://www.youtube.com/embed/HX4thuUy0Z0" frameborder="0" allowfullscreen></iframe>
+
 #### Instructions
 
 1) To begin you’re going to need three images of your object; one taken with a red filter (R), one taken with a green filter (V) and one taken with a blue filter (B). 

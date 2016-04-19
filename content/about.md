@@ -23,7 +23,7 @@ Children Reached Directly | 23100
 Stellar Role Models| 39 
 School Workshops Hosted | 41
 Teacher Workshops Hosted | 14 
-Children Reached Indirectly | 32971 
+Children Reached Indirectly | 9871 
 
 #### Progress Report 2014-2015 
 <br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
