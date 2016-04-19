@@ -10,6 +10,8 @@ To use the robotic telescopes, you will need an LCOGT On Sky account (On Sky is 
 
 Before beginning, you must decide whether you want to submit your observation requests to a queue or whether you want to carry out your observations in real time. For the second option you will need to contact the project coordinator at least a couple of days in advance and they will reserve the telescope for the time and duration you require. Please do not hesitate to request a slot, just send the time, date and duration to unawe@astro.cf.ac.uk
 
+<iframe width="700" height="525" src="https://www.youtube.com/embed/jiL4zqcz25g" frameborder="0" allowfullscreen></iframe>
+
 ### Instructions
 
 1) Open your browser and go to [lcogt.net/observe/](http://lcogt.net/observe/)
