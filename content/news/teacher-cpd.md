@@ -72,7 +72,7 @@ If you would like any more information, please contact us at [robertsS38@cardiff
 ##### Previous Events
 
 Event | Date | Duration | Location 
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 Universe in the Classroom Twilight | 14 Jan 2014 | 2 hours | Techniquest, Cardiff 
 Universe in the Classroom Twilight | 12 Feb 2014 | 2 hours | Techniquest, Wrehxm 
 Universe in the Classroom Twilight | 25 Mar 2014 | 5 hours | Ysgol Pencae, Cardiff 
