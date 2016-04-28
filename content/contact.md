@@ -6,7 +6,7 @@ title = "Contact Us"
 tags = ['contact'] 
 +++
 
-We'd love to hear from you. There are many ways to contact us here at *Universe in the Classroom*.
+If you have any questions about *Universe in the Classroom*, our workshops, CPD or resources, we'd love to hear from you. 
 
 **Email**: [unawe@cardiff.ac.uk](mailto:unawe@cardiff.ac.uk)<br>
 </br>**Address**:  School of Physics and Astronomy,
