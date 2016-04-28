@@ -12,6 +12,7 @@ Schools involved in *Universe in the Classroom* are being offered a unique and e
 
  {{<figure src="/images/lcogt1m.jpg" title="A Las Cumbres Observatory 1-metre robotic telescopes in its dome." >}}
 
+
 ## Supporting Materials
 
  A core aspect of *Universe in the Classroom* is to help Welsh students (and their teachers) enjoy and explore the vast Universe using this robotic telescope network. A range of astronomy activities, guides and screencasts have been designed to support use of the robotic telescopes.
@@ -40,3 +41,9 @@ The robot behind Las Cumbres Observatory is called SEROL ("Starry" in Welsh). SE
 ![SEROL](/images/serol_sm.jpg)
 
 If you are a welsh primary school teacher and have any queries about using the LCOGT On Sky interface contact the Universe in the Classroom project coordinator at [unawe@astro.cf.ac.uk] (mailto:unawe@cardiff.cf.ac.uk)
+
+#### Observation Gallery
+
+See some of the observations welsh school children have already taken using the robotic telescopes:
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118285143@N07/albums/72157657887028754" title="Astronomical Images"><img src="https://farm6.staticflickr.com/5672/22219103769_0970ff4aa3_z.jpg" width="639" height="640" alt="Astronomical Images"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

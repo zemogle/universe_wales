@@ -12,7 +12,7 @@ Universe in the Classroom is an initiative that provides improved teaching metho
 
 To carry out this ambitious project, which plans to reach 60,000 children over a decade, Universe in the Classroom has recruited a diverse team of enthusiastic science undergraduates and postgraduates from Cardiff University to act as Stellar Role Models (STARS) and demonstrate to the next generation that science is for everyone. These volunteers have already organised and hosted dozens of astronomy workshops for children and are now putting emphasis on exploring the cosmos in classrooms with the Las Cumbres Observatory robotic telescope network.
 
-#### Impact Figures
+##### Impact Figures
 
 ![Impact Figures 03/2016](/images/Impact_figures_Mar2016.jpg)
 
