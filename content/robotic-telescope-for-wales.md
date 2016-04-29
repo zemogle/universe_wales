@@ -40,7 +40,7 @@ The robot behind Las Cumbres Observatory is called SEROL ("Starry" in Welsh). SE
 
 ![SEROL](/images/serol_sm.jpg)
 
-If you are a welsh primary school teacher and have any queries about using the LCOGT On Sky interface contact the Universe in the Classroom project coordinator at [unawe@astro.cf.ac.uk] (mailto:unawe@cardiff.cf.ac.uk)
+If you are a welsh primary school teacher and have any queries about using the LCOGT On Sky interface contact the Universe in the Classroom project coordinator at [unawe@astro.cf.ac.uk](mailto:unawe@cardiff.cf.ac.uk)
 
 #### Observation Gallery
 

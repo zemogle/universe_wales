@@ -9,21 +9,19 @@ To carry out the ambitious goals of *Universe in the Classroom*, we invite enthu
 
 By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed.
 
-## Who can be a Stellar Role Model?
+### Who can be a Stellar Role Model?
 
 Anyone with a passionate for science, enthusiasm for education or an interest in gaining experience in communication and outreach could be STAR material. Stellar Role Models can be either BSc, MSc or PhD students of astronomy, physics, space science, mathematics, engineering or another relevant topic for Universe in the Classroom.
 
 Due to the nature of the work, all volunteers will be expected to submit a DHS check before participating in the programme. This can be organised personally by students or done automatically by registering as a STEMM ambassador at www.stemnet.org.uk.
 
-<div data-role="collapsible">
-	<h2>What is expected of a Stellar Role Model?</h2>
-	<p>The most important qualities needed in a Stellar Role Model are enthusiasm and passion for science. Having strong social skills is desirable, but this is something that the student will also develop as they carry out their Universe in the Classroom activities.</p>
-	<p>Stellar Role Models will be expected to attend basic training sessions on outreach, education and the project resources before assisting at teacher training workshops, CPD days and other Universe in the Classroom events throughout the duration of the project (January 2013 – March 2015). Where necessary, travel expenses will be covered by Universe in the Classroom.</p>
-	</div>
+### What is expected of a Stellar Role Model?
+The most important qualities needed in a Stellar Role Model are enthusiasm and passion for science. Having strong social skills is desirable, but this is something that the student will also develop as they carry out their Universe in the Classroom activities.</p>
+Stellar Role Models will be expected to attend basic training sessions on outreach, education and the project resources before assisting at teacher training workshops, CPD days and other Universe in the Classroom events throughout the duration of the project (January 2013 – March 2015). Where necessary, travel expenses will be covered by Universe in the Classroom.
 
-<div data-role="collapsible">
-	<h2>Benefits for Stellar Role Models?</h2>
-	<p>Stellar Role Models will be given the opportunity to work with local communities across Wales, making new friends, helping improve STEMM skill capacity, helping improve Welsh education of STEMM and motivating young children to learn (and develop a life-long enjoyment of learning). Additional benefits for Stellar Role Models include:</p></div>
+
+### Benefits for Stellar Role Models?
+Stellar Role Models will be given the opportunity to work with local communities across Wales, making new friends, helping improve STEMM skill capacity, helping improve Welsh education of STEMM and motivating young children to learn (and develop a life-long enjoyment of learning). Additional benefits for Stellar Role Models include:
 
 - Role models will gain valuable communication, presentation and education skills, improving their employability.
 
@@ -34,3 +32,19 @@ Due to the nature of the work, all volunteers will be expected to submit a DHS c
 Join today using [our registration form](http://goo.gl/DCR2j1)
 
 For more information contact us at [unawe@astro.cf.ac.uk](unawe@astro.cf.ac.uk)
+
+### Meet our STARS!
+
+ | | | 
+--- | --- | --- | ---
+Carys Thomas | Gwen Williams | Olivia Keenan | Matt Allen | 
+Simon Schofield | Ellen Hall | Joseph Ward | Jonathan Sweetland | 
+Christopher-Rees Jacobs | Jennifer Millard | Tara Hussain | Amber Hornsby |
+Ben McNaughton | David-Lee Jones | Chay Davies-Smith | Nick Jones | 
+Peri Jones | Ryan Stock | Zoe Ballard | Alex Meredith |
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118285143@N07/albums/72157667564139561" title="Workshop Compilation"><img src="https://farm3.staticflickr.com/2897/14242734922_8c71f39870_z.jpg" width="640" height="480" alt="Workshop Compilation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Book a STARS Workshop!
+
+If you'd like our STARS to visit your school toan exciting astronomy contact us at [unawe@astro.cf.ac.uk](unawe@astro.cf.ac.uk). 
