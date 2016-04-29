@@ -42,6 +42,7 @@ Simon Schofield | Ellen Hall | Joseph Ward | Jonathan Sweetland |
 Christopher-Rees Jacobs | Jennifer Millard | Tara Hussain | Amber Hornsby |
 Ben McNaughton | David-Lee Jones | Chay Davies-Smith | Nick Jones | 
 Peri Jones | Ryan Stock | Zoe Ballard | Alex Meredith |
+Emma Foxell | Abi Ashton | Franziska Batten | 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118285143@N07/albums/72157667564139561" title="Workshop Compilation"><img src="https://farm3.staticflickr.com/2897/14242734922_8c71f39870_z.jpg" width="640" height="480" alt="Workshop Compilation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

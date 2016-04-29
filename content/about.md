@@ -25,15 +25,23 @@ School Workshops Hosted | 41
 Teacher Workshops Hosted | 14 
 Children Reached Indirectly | 9871 
 
-#### Progress Report 2014-2015 
+##### Progress Report 2014-2015 
 <br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
 
-## Get Involved
+##### Stellar Role Models
+
+To carry out the ambitious goals of *Universe in the Classroom*, we invite enthusiastic science undergraduates to volunteer as Stellar Role Models (STARS). Participants help organise and run twilight training workshops for teachers, continuing professional development (CPD) days and astronomy workshops for children.
+
+By taking part in the project, STEMM students offer a diverse pool of representatives; including Welsh-speakers, female scientists and a range of ethnic groups and backgrounds, who will tackle diversity and gender issues in science and technology across Wales and broaden young children’s ideas of who can be a scientist at an age where impressions can become fixed.
+
+###### [Find out more about the our school workshops, the STARS scheme and how to get involved](/stars/)
+
+#### Get Involved
 
 If you’re an educator interested in participating in a Universe in the Classroom event, want us to visit your school or have any questions, contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk).
 
 If you’re a STEM student studying at Cardiff University and want to take part in the STARS programme, you can register your interest via our online form at [http://goo.gl/yLkZTN](http://goo.gl/yLkZTN).
 
-## [Partners](/partners/)
+#### [Partners](/partners/)
 
 This project is funded by the Welsh Government National Science Academy and is run in partnership with Cardiff University, Universe Awareness and Las Cumbres Observatory.
