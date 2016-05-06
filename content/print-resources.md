@@ -23,7 +23,7 @@ This comic aims to empower kids to see themselves as scientists, and the key to 
 
 <div data-configid="23072955/32734398" style="width:525px; height:373px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-#### Build Your Own 1-metre Telescope
+#### Build Your Own 0.4-metre Telescope
 
 Access to LCOGT’s robotic telescope network means that children in welsh primary schools can explore the wonders of the night sky during the school day without the need for an expensive school trip. However, the distance means the kids never get to experience the physical appearance of the telescopes - that’s where this 6cm model of LCOGTs 1-metre telescopes comes in. Children can print and build their own model telescope before or after carry out an observing session on a real-life version of this astronomical instrument.
 
