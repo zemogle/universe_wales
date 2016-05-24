@@ -6,7 +6,7 @@ title = "Activities"
 tags = ['activities']
 +++
 
-Here you can explore all the *Universe in the Classroom* activities, created to help you inspire and educate young students with the wonders of the cosmos.
+To help you inspire and educate young students with the wonders of the cosmos, created the *Universe in the Classroom* activity book. You can access the [full Universe in the Classroom Activity Book here](https://drive.google.com/file/d/0B42a91Be7891OUlwZnczMmQxb2s/view?usp=sharing) or explore the individual activities below.  
 
 Enquiry-based learning techniques were taken into consideration in the design of each activity, and all necessary scientific information is included, along with a step-by-step walk through, so that you can implement the activities without carrying out any background research.
 
