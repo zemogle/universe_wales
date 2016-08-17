@@ -92,3 +92,14 @@ Now that the students have a tool to navigate the night sky at any time or day, 
 ##### Curriculum Links
 
 [KS2 Art and Design in the Welsh National Curriculum](http://learning.gov.wales/docs/learningwales/publications/130424-art-and-design-in-the-national-curriculum-en.pdf), Making:<br> “Design and make three-dimensional objects and artefacts using a range of various materials for a variety of purposes”. </br>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

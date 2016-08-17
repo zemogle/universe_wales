@@ -28,3 +28,14 @@ A DIY guide has been created to allow users to build their own Universe-in-a-Box
 Throughout 2014 we carried out a number of teacher training workshops based around Universe-in-a-Box, you can explore the content of the workshop below.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hlnBpcnUoa0BzI" width="620" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Universe_in_the_Classroom/universe-in-the-classroom-phase-1-teacher-training-presentation" title="Universe in the Classroom Phase 1: Teacher Training Presentation" target="_blank">Universe in the Classroom Phase 1: Teacher Training Presentation</a> </strong> from <strong><a href="//www.slideshare.net/Universe_in_the_Classroom" target="_blank">Universe_in_the_Classroom</a></strong> </div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

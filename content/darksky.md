@@ -81,3 +81,14 @@ Before beginning the activity, create a DIY planetarium in your classroom by fol
 Now that the students understand the benefits of a dark sky observing location, use the robotic telescopes to show just how impressive a good view of the night sky can be. Choose any object from the list provided on the observing website.
 
 You can also use LCOGT’s All Sky Cameras to enjoy a fantastic view of the night sky by visiting [lcogt.net/camera/](http://www.lcogt.net/camera/)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

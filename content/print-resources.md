@@ -28,3 +28,14 @@ This comic aims to empower kids to see themselves as scientists, and the key to 
 Access to LCOGT’s robotic telescope network means that children in welsh primary schools can explore the wonders of the night sky during the school day without the need for an expensive school trip. However, the distance means the kids never get to experience the physical appearance of the telescopes - that’s where this 6cm model of LCOGTs 1-metre telescopes comes in. Children can print and build their own model telescope before or after carry out an observing session on a real-life version of this astronomical instrument.
 
 <div data-configid="23072955/32733689" style="width:525px; height:373px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

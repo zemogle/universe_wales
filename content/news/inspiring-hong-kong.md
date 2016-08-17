@@ -22,3 +22,14 @@ This year was the turn Cardiff University School of Physics and Astronomy. Durin
 On Monday we hosted student workshops for junior secondary students from local schools on ‘Red Dwarfs and Blue Supergiants: the life and times of stars’. The workshop invited students to use [Star-in-a-Box](http://starinabox.lcogt.net/) and [LCOGT’s robotic telescopes](http://lcogt.net/) to explore the entire life-cycle of stars, from dramatic birth to violent end, and discover what a star’s mass can reveal about its past and its future.
 
 ![HK fest 1](/images/HK fest1.jpg/)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

@@ -126,5 +126,14 @@ Now that the class understand how much more powerful the robotic telescopes are 
 [KS2 Science in the Welsh National Curriculum](http://learning.wales.gov.uk/docs/learningwales/publications/140624-science-in-the-national-curriculum-en.pdf), Skills: <br> “Make careful observations and accurate measurements…make comparisons and identify and describe trends or patterns in data and information…use some prior knowledge to explain links between cause and effect when concluding."</br>
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-82677354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
