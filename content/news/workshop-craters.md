@@ -22,7 +22,7 @@ This is a technique employed by real scientists and one that can be practiced by
 
 We finished the workshop with a fun game of Astronomy Bingo, during which students discovered some of the other objects that can be studied with telescopes: star clusters, nebulae and galaxies. The winning students were invited to use the robotic telescopes to observe some of these objects, including this stunning image of a nebula called M17!
 
-{{<figure src="/images/Nantyparc.jpg" title="Year 4 students from Nant-y-Parc primary school in Caerphilly show off their Telescope in your Pocket booklets." >}}
+![Nant y Park](/images/Nantyparc.jpg/)
 
 If you’re interested in any of the activities mentioned above, follow the links below to find out more. If you would like to enquire about joining the Universe in the Classroom programme, or having a workshop of your own, contact us at unawe@astro.cf.ac.uk 
 
