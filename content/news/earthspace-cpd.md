@@ -21,14 +21,18 @@ If you are interested in participating, or sending a teacher from your school to
 ##### Upcoming Events
 
 Date: Thursday 9th February 2017
+
 Time: 10:00-15:30
+
 Location: Centre for Alternative Technology
 Machynlleth, Powys, SY20 9AZ
 
 --
 
 Date: Friday 3rd February 2017
+
 Time: 10:00-15:30
+
 Location: School of Physics and Astronomy,
 Cardiff University, CF24 3AA
 
