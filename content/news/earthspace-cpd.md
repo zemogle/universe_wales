@@ -16,7 +16,7 @@ Universe in the Classroom and Space Awareness both actively address equality and
 
 Our resources are suitable for primary and secondary students, aged between 6-18 years. The event is free and we are pleased to offer sponsorship to participating schools to cover the cost of travel and substitute teaching. 
 
-If you are interested in participating, or sending a teacher from your school to one of the CPD events,  fill in our registration form: [https://goo.gl/forms/vTLDicjMXXDLPmAX2](https://goo.gl/forms/vTLDicjMXXDLPmAX2) 
+If you are interested in participating, or sending a teacher from your school to one of the CPD events,  fill in our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSd94Fo3WD6QgMffTOhT_ToJqDz5Tus39CMNCiiSpNwbxIYlnQ/viewform) 
 
 ##### Upcoming Events
 
