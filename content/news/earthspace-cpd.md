@@ -10,13 +10,13 @@ tags = ['teacher-cpd']
 
 Participating schools will be given access to the Universe in the Classroom and Space Awareness programmes, joining an international network of teachers, communicators, scientists and policy makers, co-ordinated by Cardiff University. 
 
-All participating schools will receive access to a global network of robotic telescopes that can be used for free at any time over the Internet, and a vast range of classroom activities and resources covering the topics of Our Planet, the Solar System and the Wonderful Universe beyond. 
+All participating schools will receive access to a [global network of robotic telescopes](www.lco.global) that can be used for free at any time over the Internet, and a vast range of [classroom activities and resources](/resources) covering the topics of [Our Planet](http://www.space-awareness.org/en/categories/earth/), the [Solar System](http://www.universe.wales/activities/) and the [Wonderful Universe](http://www.space-awareness.org/en/categories/space/) beyond. 
 
 Universe in the Classroom and Space Awareness both actively address equality and inclusivity. During this training day we will demonstrate ways you can introduce these ideas to your students through our space resources. 
 
 Our resources are suitable for primary and secondary students, aged between 6-18 years. The event is free and we are pleased to offer sponsorship to participating schools to cover the cost of travel and substitute teaching. 
 
-If you are interested in participating, or sending a teacher from your school to this CPD event,  fill in our registration form: https://goo.gl/forms/vTLDicjMXXDLPmAX2 
+If you are interested in participating, or sending a teacher from your school to this CPD event,  fill in our registration form: [https://goo.gl/forms/vTLDicjMXXDLPmAX2](https://goo.gl/forms/vTLDicjMXXDLPmAX2) 
 
 ##### Upcoming Events
 
