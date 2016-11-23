@@ -10,13 +10,13 @@ For three years, [Universe in the Classroom](/about) has been running a successf
 
 A role model is a person who inspires and encourages us to strive for greatness, live to our fullest potential and see the best in ourselves. A role model is someone we admire and someone we aspire to be like. STARS do not only pass on new knowledge and skills, they also act as role models, demonstrating to children that anyone can be a scientist, regardless of age, gender or background. We are now very proud to have **51** enthusiastic students acting as STEM role models for young welsh children. 
 
- {{<figure src="/images/stars-train-2016.png" title="Students practise their communication skills during Space Scoop Storytelling at STARS meeting" >}}
+![STARS training workshop 2016](images/stars-train-2016.png)
 
 The number includes 13 new undergraduate students who were welcomed to the project this month. The new group includes 5 females and 4 welsh speakers.
 
 Each role model has taken part in a two-hour training session, during which an experience primary school teacher was invited to share tips on how to effectively communicate science to a young audience from an experienced primary school teacher. Students were also introduced to the vast range of [Universe in the Classroom resources](/resources) and provided with a fun opportunity to practise their creative communication skills.
 
- {{<figure src="/images/glyngaer-STAR.png" title="A STAR teaches children at Glyn Gaer primary school about black holes," >}}
+![Glyn Gaer STAR](images/glyngaer-STAR.png)
 
 To date, our STARS have hosted over 60 inspirational workshops in primary schools across Wales, reaching over 2,200 young minds, and we have many more workshops planned in the upcoming months.
  
