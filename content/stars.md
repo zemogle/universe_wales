@@ -48,7 +48,7 @@ Emma Foxell | Abi Ashton | Franziska Batten |
 
 ### Book a STARS Workshop!
 
-If you'd like our STARS to visit your school toan exciting astronomy contact us at [unawe@astro.cf.ac.uk](unawe@astro.cf.ac.uk). 
+If you'd like our STARS to visit your school to an exciting astronomy contact us at [unawe@astro.cf.ac.uk](unawe@astro.cf.ac.uk). 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
