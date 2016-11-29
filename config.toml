@@ -14,7 +14,7 @@ canonifyurls = true
     post = "/news/:title/"
 
 [params]
-  description = "this is my description"
+  description = "Inspiring children and teachers in Wales using astronomy and robotic telescopes"
   cover = "images/cover.jpg"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
