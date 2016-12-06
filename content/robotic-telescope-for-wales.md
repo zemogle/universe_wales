@@ -38,7 +38,7 @@ To make using the telescopes as simple as possible we have created a series of s
 
 The robot behind Las Cumbres Observatory is called SEROL ("Starry" in Welsh). SEROL controls the telescopes, you simply tell it what you'd like to observe and he will do all the hard work for you. This character appears throughout all of the Universe in the Classroom resources, watch out for it!
 
-![SEROL](/images/serol_sm.jpg)
+![SEROL multitasking](/images/Serol_multitasked-small.png)
 
 If you are a welsh primary school teacher and have any queries about using the LCOGT On Sky interface contact the Universe in the Classroom project coordinator at [unawe@astro.cf.ac.uk](mailto:unawe@cardiff.cf.ac.uk)
 
