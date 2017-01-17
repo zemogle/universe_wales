@@ -85,6 +85,8 @@ Pluto | 5 910 000 000 | 591
 
 12) Ask them to stand in the correct order — Sun on the far-left and farthest planet from the Sun on the far-right — behind the string and hold their thumb over the small point representing their assigned planet.
 
+*Alternative: Use a piece of scrap paper to create a model of the Solar System. To do this you will need several sheets of A2 or A3 paper cut lengthways into several slivers roughly 5cm across. Fold the paper in half (always fold lengthways). Draw and label Uranus in the crease. Fold both ends to the centre, in one crease draw Neptune, in the other Saturn. Fold to Saturn and draw Jupiter in the crease. Fold to Jupiter, this crease will be the Asteroid belt. Fold to the Asteroid belt, this crease will be Mars. Finally, fold to Mars and then fold again. The three creases, going from Mars to the edge, will be Earth, Venus and Mercury. The very edge of the paper is the Sun. The other end is the location of dwarf planet Pluto.*
+
 13) What do the other children notice:
 Are all the planets equally spaced? 
 Are the planets further from the Sun closer together or further apart? 
@@ -97,7 +99,7 @@ planet aboard New Horizons using the distances in their table. They will then co
 
 ##### Conclusion
 
-Now that you understand the awesome distances in space and  why telescopes are such an essential tool in the exploration of our vast Universe, invite the class to use the robotic telescopes to discover the wonders of the cosmos!
+Now that you understand the awesome distances in space and why telescopes are such an essential tool in the exploration of our vast Universe, invite the class to use the robotic telescopes to discover the wonders of the cosmos!
 
 ##### Curriculum Links
 

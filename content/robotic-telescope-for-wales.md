@@ -7,7 +7,7 @@ title = "Robotic Telescope for Wales"
 
 Schools involved in *Universe in the Classroom* are being offered a unique and exciting opportunity — to explore the exotic wonders of the Universe from their classrooms using professional telescopes!
 
-[Las Cumbres Observatory](http://lcogt.net) runs a network of powerful robotic telescopes located around the world. Using the Internet, primary school teachers and students can control the telescopes and observe the hidden gems of the Universe using our specially designed, easy-to-use interface. Users don't need any prior knowledge of telescopes or astronomical objects, we provide everything you need to become an explorer of the skies. 
+[Las Cumbres Observatory](http://lco.global) runs a network of powerful robotic telescopes located around the world. Using the Internet, primary school teachers and students can control the telescopes and observe the hidden gems of the Universe using our specially designed, easy-to-use interface. Users don't need any prior knowledge of telescopes or astronomical objects, we provide everything you need to become an explorer of the skies. 
 
 
  {{<figure src="/images/lcogt1m.jpg" title="A Las Cumbres Observatory 1-metre robotic telescopes in its dome." >}}

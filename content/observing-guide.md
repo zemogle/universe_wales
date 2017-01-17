@@ -1,12 +1,12 @@
 +++
 date = "2015-12-12T17:42:58Z"
 draft = false
-title = "How to Observe with LCOGT"
+title = "How to Observe with LCO"
 
 tags = ['observing-guide']
 +++
 
-To use the robotic telescopes, you will need an LCOGT On Sky account (On Sky is the name of the observing website). By now, you should have received an email with your account details. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at unawe@astro.cf.ac.uk
+To use the robotic telescopes, you will need an LCO On Sky account (On Sky is the name of the observing website). By now, you should have received an email with your account details. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at unawe@astro.cf.ac.uk
 
 Before beginning, you must decide whether you want to submit your observation requests to a queue or whether you want to carry out your observations in real time. For the second option you will need to contact the project coordinator at least a couple of days in advance and they will reserve the telescope for the time and duration you require. Please do not hesitate to request a slot, just send the time, date and duration to unawe@astro.cf.ac.uk
 
@@ -14,7 +14,7 @@ Before beginning, you must decide whether you want to submit your observation re
 
 ### Instructions
 
-1) Open your browser and go to [lcogt.net/observe/](http://lcogt.net/observe/)
+1) Open your browser and go to [lco.global/observe/](http://lco.global/observe/)
 
 2) Enter your **login details** as requested to access On Sky.
 
@@ -28,9 +28,9 @@ The first page you are directed to after logging in to On Sky is your Observatio
 
 4) To schedule observations during your slot, return to your Homepage and scroll down to the section ‘Upcoming Slots’. Simply click the relevant time slot and skip to Step 7.
 
-###### LCOGT Scheduler
+###### LCO Scheduler
  
-All telescopes in the LCOGT network can be scheduled as a single global entity. Although requests are made for a specific telescope class, you won’t be able to identify specific sites or telescopes. (Don’t worry, all 1-meter telescopes are identical). Instead, each observation will be scheduled on the best telescope available, and in the event of a failure due to weather or technical problems, your observation will be rebooked on the next available telescope.
+All telescopes in the LCO network can be scheduled as a single global entity. Although requests are made for a specific telescope class, you won’t be able to identify specific sites or telescopes. (Don’t worry, all 1-meter telescopes are identical). Instead, each observation will be scheduled on the best telescope available, and in the event of a failure due to weather or technical problems, your observation will be rebooked on the next available telescope.
 
 SEROL automatically considers all observing constraints -- such as when your target object can be observed and from which sites and the brightness of the Moon -- so you don’t have to worry about anything!
 
@@ -56,9 +56,9 @@ The list includes a number of stunning astronomical targets, categorised by obje
 
 11) The last field asks how many of each image you would like (remember that you have limited observing time!).
 
-###### Las Cumbres Observatory Global Telescope Network
+###### Las Cumbres Observatory global telescope network
 
- The Las Cumbres Observatory Global Telescope (LCOGT) Network is made up of 11 telescopes located at 7 of the best observing sites around the world. The telescopes can be controlled robotically from anywhere in the world!
+ The Las Cumbres Observatory (LCO) global telescope network is made up of 11 telescopes located at 7 of the best observing sites around the world. The telescopes can be controlled robotically from anywhere in the world!
 
 13) Once you have completed the form, click Add. 
 
@@ -73,11 +73,11 @@ You will then be taken to your Submitted page, where you will find a list of all
 
 Blue   =  Submitted but pending.
 
-Green =  Successful. Your images 		    are waiting.
+Green =  Successful. Your images are waiting.
 
 Red    =  Observations failed.
 
-Black  =  Observations were 		    cancelled by you or an administrator.
+Black  =  Observations were cancelled by you or an administrator.
 
 17) After submitting an observation request using a pre-booked time slot, you can watch all of your observations happening in real-time. Just click on the your request from the Submitted page prior to or during the time window of your slot.
  

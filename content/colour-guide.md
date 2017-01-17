@@ -14,7 +14,7 @@ We’re all familiar with the breathtaking, colourful images of the cosmos captu
 
 1) To begin you’re going to need three images of your object; one taken with a red filter (R), one taken with a green filter (V) and one taken with a blue filter (B). 
 
-2) Go to your Observing Homepage at lcogt.net/observe and scroll down to find the images you want to use. Or choose three images from the vast LCOGT archive at lcogt.net/observations/
+2) Go to your Observing Homepage at lco.global/observe and scroll down to find the images you want to use. Or choose three images from the vast LCO archive at lco.global/observations/
 
 3) Right-click and open the three image as new tabs. 
 
