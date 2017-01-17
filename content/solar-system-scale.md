@@ -10,7 +10,7 @@ How long does it take to travel to the Moon? How long would it take to reach the
 
 [Scale of the Solar System Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891RUdGLW5xZWJRSFU/view?usp=sharing)
 
-[Scale of the Solar System Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891N0VZemtnRVJlWUE/view?usp=sharing)
+[Scale of the Solar System Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891eEpvcXN0bXJ3N0U/view?usp=sharing)
 
 ### Full Instructions
 
