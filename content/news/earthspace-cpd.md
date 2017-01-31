@@ -24,8 +24,7 @@ Date: Thursday 9th February 2017
 
 Time: 10:00-15:30
 
-Location: Centre for Alternative Technology
-Machynlleth, Powys, SY20 9AZ
+Location: Centre for Alternative Technology, Machynlleth, Powys, SY20 9AZ
 
 --
 
@@ -35,6 +34,30 @@ Time: 10:00-15:30
 
 Location: School of Physics and Astronomy,
 Cardiff University, CF24 3AA
+
+##### Full Schedule
+
+**09:30 - 10:00 Tea and Coffee**
+
+10:00 - 10:30 Welcome and Introduction 
+
+10:30 - 11:15 Space Scoop: Astronomy News Service for Young Scientists
+
+11:15 - 11:30 There's No Such Thing as a Stupid Question
+
+11:30 - 13:00 Robotic Telescopes in the Classroom
+
+**13:00 - 13:30 Lunch**
+
+13:30 - 13:40 Space Awareness
+
+13:40 - 14:30 Earth Observation
+
+14:30 - 15:15 (parallel sessions) - The Lifecycle of Stars and The Solar System's Spare Parts
+
+15:15 - 15:30 Wrap up and Feedback
+
+**15:30 End**
 
 ##### Funding
 
