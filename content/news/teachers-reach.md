@@ -1,8 +1,7 @@
 +++
-date = "2017-14-02T11:25:29Z"
+date = "2017-02-14T11:30:00Z"
 draft = false
 title = "Welsh Teachers Reach for the Stars"
-
 tags = ['teachers-reach']
 +++
 
@@ -21,16 +20,3 @@ This professional development support for teachers in partnership with academics
 ![febCPD-PHYSX-2](/images/febCPD-PHYSX-2.JPG)
 
 The leader of the Welsh node of Space Awareness, Dr Edward Gomez, commented *"One thing we really wanted to do is to promote and address equality and inclusivity within the classroom.  We were able to discuss these issues using the No Such Thing as a Stupid Question comic book created in partnership with local artist Laura Sorvala, and other Space Awareness activities. There should be no barriers to anyone who wishes to do science".*
-
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
