@@ -15,7 +15,10 @@ Just like it says on the box, this little activity book fits right in your pocke
 
 This activity book includes all range of fun astronomy activities based on the exciting topics of robotic telescopes and exotic astronomical objects. Students are invited to learn how telescopes work, design a comic that takes them on a trip to outer space and play a game of galactic spot-the-difference.
 
-<div data-configid="23072955/32733436" style="width:525px; height:354px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async=“true"></script>
+<div data-configid="23072955/32733436" style="width:525px; height:375x;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async=“true"></script>
+
+<div data-configid="23072955/45030787" style="width:100%; height:375px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 #### There’s No Such Thing as a Stupid Question comic book
 
