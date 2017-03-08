@@ -28,29 +28,29 @@ Around 9000 stars are bright enough to be visible to the naked eye, but even in 
 
 #### Background Science
 
-The Earth is a sphere. An invisible line drawn around the Earth called the Equator splits it into two halves, these halves are known as Hemispheres. To the north of the equator is the Northern Hemisphere; to the south of the equator is the Southern Hemisphere. 
+The Earth is a sphere. An invisible line drawn around the Earth called the Equator splits it into two halves, these halves are known as Hemispheres. To the north of the equator is the Northern Hemisphere; to the south of the equator is the Southern Hemisphere.
 
 The Northern Hemisphere includes all of Europe, North America, the northern parts of South America, two-thirds of Africa and almost all of Asia.The Southern Hemisphere includes Australasia, Antarctica, most of South America, one-third of Africa and a tiny bit of Asia. The image and table below show the location of the seven main LCOGT observing sites.
 
-Observatory | Location
---- | ---
-Haleakala | Hawaii, USA
-McDonald | Texas, USA
-Cerro Tololo | Chile
-Sutherland | South Africa
-Siding Springs | Eastern Australia
-Teide | Tenerife
-Ali | Tibet, China
+| Observatory    | Location          |
+|:---------------|:------------------|
+| Haleakala      | Hawaii, USA       |
+| McDonald       | Texas, USA        |
+| Cerro Tololo   | Chile             |
+| Sutherland     | South Africa      |
+| Siding Springs | Eastern Australia |
+| Teide          | Tenerife          |
+| Ali            | Tibet, China      |
 
 #### Step-by-Step
 
 #####Preparation*
 
-1) Before beginning this activity, print out Astronomical Images and Figurines. 
+1) Before beginning this activity, print out Astronomical Images and Figurines.
 
-2) Cut out the two astronomical images and two of the figurines. 
+2) Cut out the two astronomical images and two of the figurines.
 
-3) You should have two pictures of the night sky: one of the North Star and one of the Andromeda Galaxy (Appendix 13). Using adhesive putty stick the North Star high on a wall. Stick the Andromeda Galaxy low down on the opposite wall. 
+3) You should have two pictures of the night sky: one of the North Star and one of the Andromeda Galaxy (Appendix 13). Using adhesive putty stick the North Star high on a wall. Stick the Andromeda Galaxy low down on the opposite wall.
 
 4) Place your 7 stickers on your globe, each one will mark the location of an LCOGT observatory. Find the locations on the image and table in the Background Information section.
 
@@ -70,7 +70,7 @@ Ali | Tibet, China
 
 6) Point to each of the following on the globe in turn,  
   - Explain what the Equator is to the class.
-  - Explain that we call the two regions above and below the equator the Hemispheres. 
+  - Explain that we call the two regions above and below the equator the Hemispheres.
   - Explain that the half of the globe to the north of the equator is called the Northern Hemisphere and the half of the globe to the south of the equator is called the Southern Hemisphere.
 
 7) Now, attach two figurines to your globe with blue tac; place one standing close to the North Pole (e.g. in Greenland or Finland) and one close to the South Pole (e.g in Chile or Australia).
@@ -80,7 +80,7 @@ Ali | Tibet, China
 
   b. At what time could the figurine in the Southern Hemisphere see the North Star? (Never).
 
-9) The students should realise that the figure based in the Northern Hemisphere is never be able to view Andromeda, this can only be seen by the figurine in the Southern Hemisphere, and vice versa. 
+9) The students should realise that the figure based in the Northern Hemisphere is never be able to view Andromeda, this can only be seen by the figurine in the Southern Hemisphere, and vice versa.
 
 10) Although some night sky objects that can be seen from both hemispheres, there are many that can only be seen from one hemisphere, this is why LCOGT has telescopes all over the world, so they can see every bit of the night sky! Point to the different observatories on your globe to demonstrate the locations on both hemispheres.
 
@@ -88,18 +88,6 @@ Ali | Tibet, China
 
 By the end of this activity students should understand that the Earth has two Hemispheres and why we need observatories in both the Southern and Northern Hemispheres. Now choose two astronomical objects from the list below; one that is visible from the northern half of the night sky and one from the southern half. Request observations of both images using the robotic telescopes and see the benefits of a world-wide robotic telescope network first hand!
 
-Below are a few examples of northern and southern astronomical objects you could observe. 
+Below are a few examples of northern and southern astronomical objects you could observe.
 
-| Northern Hemisphere | M2 | NFC 6217 | 
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+| Northern Hemisphere | M2 | NFC 6217 |

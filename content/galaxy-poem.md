@@ -8,9 +8,9 @@ tags = ['galaxy-poem']
 
 A galaxy is a massive group of stars, star clusters, cosmic gas and dust, and dark matter, which is all gravitationally bound together. There are hundreds of billions of galaxies in the Universe, they come in all sorts of shapes and sizes but the three most common types are spiral galaxies, barred spiral galaxies and elliptical galaxies.
 
-The galaxy in which our Solar System lies is called the Milky Way. Without this galaxy, life would likely not have flourished on Earth. 
+The galaxy in which our Solar System lies is called the Milky Way. Without this galaxy, life would likely not have flourished on Earth.
 
-In this activity students will learn about galaxies while putting they creative skillsto practise in a drawing and writing exercise. 
+In this activity students will learn about galaxies while putting they creative skillsto practise in a drawing and writing exercise.
 
 [Galaxy Shape Poem Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891WWVFLUhIakdPOFU/view?usp=sharing)
 
@@ -38,9 +38,9 @@ In this activity students will learn about galaxies while putting they creative 
 
 A galaxy is a massive group of stars, star clusters, interstellar gas and dust, and dark matter which is all gravitationally bound together. There are hundreds of billions of galaxies in the Universe, they come in all sorts of shapes and sizes but the three most common types are spiral galaxies, barred spiral galaxies and elliptical galaxies.
 
-The most common type of galaxy is called a “spiral galaxy”. Spiral galaxies look like spirals, with long arms winding toward a bright bulge at the centre. 
+The most common type of galaxy is called a “spiral galaxy”. Spiral galaxies look like spirals, with long arms winding toward a bright bulge at the centre.
 
-About 70% of the galaxies in the local Universe are spiral galaxies. Our own galaxy, the Milky Way, is a typical spiral galaxy. 
+About 70% of the galaxies in the local Universe are spiral galaxies. Our own galaxy, the Milky Way, is a typical spiral galaxy.
 
 **Spiral Galaxy**: Some spiral galaxies have arms that are wound tightly, while other galaxies have very loosely-wound arms. The arms of a spiral galaxy have lots of gas and dust, and they are often areas where new stars are constantly forming. The bulge of a spiral galaxy is composed primarily of old, red stars. Very little star formation goes on in the bulge.
 
@@ -74,19 +74,8 @@ About 70% of the galaxies in the local Universe are spiral galaxies. Our own gal
 
 ##### Conclusion
 
-Now that your class is familiar with what a galaxy is and what they look like, use the robotic telescopes to take three pictures, one of each type of galaxy: spiral, barred-spiral and elliptical. 
+Now that your class is familiar with what a galaxy is and what they look like, use the robotic telescopes to take three pictures, one of each type of galaxy: spiral, barred-spiral and elliptical.
 
 ##### Curriculum Links
 
 [Welsh National Curriculum KS2 English, Writing](http://learning.gov.wales/docs/learningwales/publications/101013englishncfwen.pdf)
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

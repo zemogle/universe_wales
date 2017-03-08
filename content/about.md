@@ -16,16 +16,16 @@ To carry out this ambitious project, which plans to reach 60,000 children over a
 
 ![Impact Figures 03/2016](/images/Impact_figures_Mar2016.jpg)
 
-Participating Primary Schools | 105
---- | ---
-Teachers Trained| 139
-Children Reached Directly | 23100
-Stellar Role Models| 39 
-School Workshops Hosted | 41
-Teacher Workshops Hosted | 14 
-Children Reached Indirectly | 9871 
+| Participating Primary Schools | 105   |
+|:------------------------------|:------|
+| Teachers Trained              | 139   |
+| Children Reached Directly     | 23100 |
+| Stellar Role Models           | 39    |
+| School Workshops Hosted       | 41    |
+| Teacher Workshops Hosted      | 14    |
+| Children Reached Indirectly   | 9871  |
 
-##### Progress Report 2014-2015 
+##### Progress Report 2014-2015
 <br><div data-configid="23072955/32759158" style="width:800px; height:518px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></br>
 
 ##### Stellar Role Models
@@ -45,14 +45,3 @@ If you’re a STEM student studying at Cardiff University and want to take part 
 #### [Partners](/partners/)
 
 This project is funded by the Welsh Government National Science Academy and is run in partnership with Cardiff University, Universe Awareness and Las Cumbres Observatory.
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

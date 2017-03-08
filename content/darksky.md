@@ -8,7 +8,7 @@ tags = ['darksky']
 
 If you are out in the countryside or at sea and you look back over a town or city you will see a glow (usually orange from the street lights) over the area - this is called light pollution. Light being shed skywards from lampposts and other lights in cities and towns causes all the faint stars disappear, leavng only the Moon and the brightest planets and stars visible.
 
-To reduce light pollution, instead of letting all the light escape upwards where it is no use to anyone, we must design lights that stop spillage from the top and sides and instead point the lights downwards where it is useful. 
+To reduce light pollution, instead of letting all the light escape upwards where it is no use to anyone, we must design lights that stop spillage from the top and sides and instead point the lights downwards where it is useful.
 
 In this activity you will build a DIY planetarium in your classroom, and allow your students to explore the effects of light pollution, experiment with possible solutions and learn why astronomers need dark skies.
 
@@ -40,7 +40,7 @@ In this activity you will build a DIY planetarium in your classroom, and allow y
 
 *Preparation*
 
-Before beginning the activity, create a DIY planetarium in your classroom by following the steps below: 
+Before beginning the activity, create a DIY planetarium in your classroom by following the steps below:
 
 1) Drape the blanket over a decent sized desk and ensure you block out all light. This is your DIY planetarium.
 
@@ -72,7 +72,7 @@ Before beginning the activity, create a DIY planetarium in your classroom by fol
   - The observing sites are remote; far from light pollution.
   - Some are located in dry, desert landscapes without much rain or cloud cover.
   - All are high altitude to sit above cloud cover, rainstorms etc.
-  - No lampposts or public lighting at observing sites. 
+  - No lampposts or public lighting at observing sites.
 
 ![Observing Sites](/images/darkskies_scrn3.png/)
 
@@ -81,14 +81,3 @@ Before beginning the activity, create a DIY planetarium in your classroom by fol
 Now that the students understand the benefits of a dark sky observing location, use the robotic telescopes to show just how impressive a good view of the night sky can be. Choose any object from the list provided on the observing website.
 
 You can also use LCOGT’s All Sky Cameras to enjoy a fantastic view of the night sky by visiting [lcogt.net/camera/](http://www.lcogt.net/camera/)
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

@@ -12,18 +12,18 @@ We’re all familiar with the breathtaking, colourful images of the cosmos captu
 
 #### Instructions
 
-1) To begin you’re going to need three images of your object; one taken with a red filter (R), one taken with a green filter (V) and one taken with a blue filter (B). 
+1) To begin you’re going to need three images of your object; one taken with a red filter (R), one taken with a green filter (V) and one taken with a blue filter (B).
 
 2) Go to your Observing Homepage at lco.global/observe and scroll down to find the images you want to use. Or choose three images from the vast LCO archive at lco.global/observations/
 
-3) Right-click and open the three image as new tabs. 
+3) Right-click and open the three image as new tabs.
 
 4) Beginning with the red filter image, you can now save the file as a JPEG by clicking ‘jpeg’ on the right side of the screen. Ensure you include the object name and filter in the file name so you can locate the file easily later on. Repeat for the blue and green image.
 
 ![Scrn 1](/images/colourguide1.png)
 
-5) Open a new tab on your browser and go to [apps.pixlr.com/editor/](https://pixlr.com/editor/) 
-Note: This app is not suitable for tablets. 
+5) Open a new tab on your browser and go to [apps.pixlr.com/editor/](https://pixlr.com/editor/)
+Note: This app is not suitable for tablets.
 
 6) Select ‘Open image from computer’ and open your red filter image.
 
@@ -33,7 +33,7 @@ Note: This app is not suitable for tablets.
 
 8) The aim is to use the sliders to make the background sky as dark as possible without losing any of the detail from your image.
 
-9) Make a note of the final numbers because you will need to make sure all your images have the same settings. 
+9) Make a note of the final numbers because you will need to make sure all your images have the same settings.
 
 10) Next we get to colour our first image! Go to **Adjustment > Hue & Saturation**
 
@@ -41,7 +41,7 @@ Note: This app is not suitable for tablets.
 
 ![Scrn 3](/images/colourguide3.png)
 
-12) When you’ve added the **Hue** tick the ‘colorize' box to check you have the correct colour. 
+12) When you’ve added the **Hue** tick the ‘colorize' box to check you have the correct colour.
 
 13) You can probably keep the **Saturation** and **Lightness** values at 0, but feel free to play around with these. Again, make sure that the background sky is kept as dark as possible and note down these values as you will need to use the same values for the blue and green images.
 
@@ -55,7 +55,7 @@ Note: This app is not suitable for tablets.
 
 ![Scrn 5](/images/colourguide5.png)
 
-17) You will see a layers box to the right of the page. Click to select the blue layer. 
+17) You will see a layers box to the right of the page. Click to select the blue layer.
 
 18) Select the slider option ![Scrn 9](/images/colourguide9.png)
 
@@ -67,23 +67,12 @@ Note: This app is not suitable for tablets.
 
 ![Scrn 6](/images/colourguide6.png)
 
-22) This option allows you to move one layer at a time. Make sure you un-tick the box on the layer you are not working with (in the ‘Layers’ box to the right), this will make that layer temporarily invisible. 
+22) This option allows you to move one layer at a time. Make sure you un-tick the box on the layer you are not working with (in the ‘Layers’ box to the right), this will make that layer temporarily invisible.
 
 23) Now click on the image and use your arrow keys to move the layer until it aligns as well as possible with the layer below. Zoom in using ![Scrn 7](/images/colourguide7.png) for a more accurate result.
 
-24) Now repeat this process on the other layer. 
+24) Now repeat this process on the other layer.
 
 25) Once your layers are aligned set them all to visible. You should now have a stunning full-colour image of one of the wonders of the cosmos!
 
 #### Congratulations, you just created your first beautiful coloured image of the cosmos!
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

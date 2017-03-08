@@ -51,7 +51,7 @@ The fainter an object, the larger the opening that is needed to let in enough li
 
 *Preparation*
 
-1) Before beginning this activity you will need to prepare a demonstration for **Part C** of the activity. To do this, start at the classroom window and measure 1-metre away on the floor. 
+1) Before beginning this activity you will need to prepare a demonstration for **Part C** of the activity. To do this, start at the classroom window and measure 1-metre away on the floor.
 
 2) Mark the 1-metre point with chalk, paper or similar, then continue marking out metre increments to the other side of the classroom. Ideally you would like around 8 metre-markers.
 
@@ -79,13 +79,13 @@ The fainter an object, the larger the opening that is needed to let in enough li
 
 9) Ask the students to try recording the number they manage to grasp on the ruler as it falls. Can they beat their previous number? (Alternately, you can use a stopwatch and have a third person time how quickly the students can catch the pen).
 
-10) Ask the students to now consider how quickly they were able to react and circle their answer on their worksheet. (Options: 1 Second, Half a second, Quarter of a second, Tenth of a second). 
+10) Ask the students to now consider how quickly they were able to react and circle their answer on their worksheet. (Options: 1 Second, Half a second, Quarter of a second, Tenth of a second).
 
 11) The average reaction time is actually about a tenth of a second (that’s 0.1 seconds). This means the average person can collect light for 0.1 seconds at a time. The students will divide 300s (telescope exposure time) by 0.1s (human reaction time) to find out how much longer the telescopes can gather light than the human eye
 
 ###### C. Test the sharpness of your eyes
 
-12) Direct the class to the card you placed on the window before the activity. 
+12) Direct the class to the card you placed on the window before the activity.
 
 13) Ask the students to begin by standing at the 1-metre marker and look towards the piece of card (no more than 4 students at a time). Can they distinguish the two holes? If so, ask them to move back to the next marker and check again.
 
@@ -97,9 +97,9 @@ The fainter an object, the larger the opening that is needed to let in enough li
 
 ###### D. Measure your Field of View
 
-16) The students will now measure their Field of View. Working in pairs, the first student will sit with their right arm extended in front of them and their eyes focused on their thumb. Their left arm will be held outstretched to the side. They will move their outstretched arm back, out of view (see image below) 
+16) The students will now measure their Field of View. Working in pairs, the first student will sit with their right arm extended in front of them and their eyes focused on their thumb. Their left arm will be held outstretched to the side. They will move their outstretched arm back, out of view (see image below)
 
-17) Still staring straight ahead they will move their arm slowly into view, with their thumb wiggling. As soon as their arm enters their vision tell them to pause. 
+17) Still staring straight ahead they will move their arm slowly into view, with their thumb wiggling. As soon as their arm enters their vision tell them to pause.
 
 {{<figure src="/images/Measuring-FOV.png" title="Volunteers measure their Field of View.">}}
 
@@ -124,16 +124,3 @@ Now that the class understand how much more powerful the robotic telescopes are 
 [KS2 Science in the Welsh National Curriculum](http://learning.wales.gov.uk/docs/learningwales/publications/140624-science-in-the-national-curriculum-en.pdf), The Sustainable Earth: <br> “a comparison of the features and properties of some natural and made materials.”</br>
 
 [KS2 Science in the Welsh National Curriculum](http://learning.wales.gov.uk/docs/learningwales/publications/140624-science-in-the-national-curriculum-en.pdf), Skills: <br> “Make careful observations and accurate measurements…make comparisons and identify and describe trends or patterns in data and information…use some prior knowledge to explain links between cause and effect when concluding."</br>
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
