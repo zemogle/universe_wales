@@ -16,13 +16,3 @@ Our younger audiences thoroughly enjoyed the chance to explore the Solar System 
 
 Other activities included [Black Hole Hunter](http://www.blackholehunter.org/), a computer game designed by the Gravitational Waves group from Cardiff University School of Physics and Astronomy. This proved very popular with adults and children alike, allowing them the weird and wonderful opportunity to listen to the sounds of the Universe as they searched for gravitational waves.
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

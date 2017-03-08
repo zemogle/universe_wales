@@ -48,13 +48,3 @@ See some of the observations welsh school children have already taken using the 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118285143@N07/albums/72157657887028754" title="Astronomical Images"><img src="https://farm6.staticflickr.com/5672/22219103769_0970ff4aa3_z.jpg" width="639" height="640" alt="Astronomical Images"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

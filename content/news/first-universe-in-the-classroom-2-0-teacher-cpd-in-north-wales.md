@@ -21,14 +21,3 @@ Teachers recap the Seasons at Universe in the Classroom teacher training in Wrex
 On 10th December we welcomed teachers from eight schools across the North of the country — from Anglesey, Conwy and Wrexham – including a mix of partner schools and new schools. The training focussed on showing teachers how to use the professional-quality LCOGT robotic telescopes to take breath-taking and inspiring images of the night sky, giving them confidence to control the telescopes and providing ideas on how to link them with core topics. To help teachers integrate the telescopes into their lessons, each school was given an activity book containing 15 activity guides (plus student worksheets, diagrams and how-to guides) covering topics relevant to using the robotic telescope network, such as Time Zones, the Scale of the Solar System and Light Pollution. During our visit to North Wales, we also hosted astronomy workshops in two schools for over 50 students.
 
 If you would like to explore or print any of the activities used as part of Universe in the Classroom, visit our [Resources page](/resources/).
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82677354-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
