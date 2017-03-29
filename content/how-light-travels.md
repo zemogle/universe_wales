@@ -8,7 +8,7 @@ tags = ['light']
 
 Light is our window, not only to the distant Universe, but to the entire world around us. *How Light Travels* is an enquiry-based activity in which students explore how light behaves, using common items such as torches, mirrors and a mixture of opaque, translucent and transparent objects. Specifically the class will learn that light moves in straight lines and can be reflected, and that effect of transparent and opaque objects on light.
 
-[**How Light Travels Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891U0tHdUU5U1duOTQ/view?usp=sharing)
+[**How Light Travels Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891WWItWFRLbzVYc0U/view?usp=sharing)
 
 [**How Light Travels Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891a3NoQjhLOTZ3ZjQ/view?usp=sharing)
 
