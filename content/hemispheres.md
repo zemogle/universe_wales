@@ -44,7 +44,7 @@ The Northern Hemisphere includes all of Europe, North America, the northern part
 
 #### Step-by-Step
 
-#####Preparation*
+##### Preparation*
 
 1) Before beginning this activity, print out Astronomical Images and Figurines.
 
@@ -54,7 +54,7 @@ The Northern Hemisphere includes all of Europe, North America, the northern part
 
 4) Place your 7 stickers on your globe, each one will mark the location of an LCOGT observatory. Find the locations on the image and table in the Background Information section.
 
-#####Instructions
+##### Instructions
 
 1) Check the students understand how the Earth rotates; demonstrate the rotation of the Earth using your globe or Earth Ball and make sure to include the Earth’s axial tilt  (23.4°) . Note: The Earth rotates in an anti-clockwise direction.
 
@@ -90,4 +90,11 @@ By the end of this activity students should understand that the Earth has two He
 
 Below are a few examples of northern and southern astronomical objects you could observe.
 
-| Northern Hemisphere | M2 | NFC 6217 |
+
+| Northern Hemisphere | Exposure Time | Southern Hemisphere | Exposure Time |
+|:--------------------|:--------------|:--------------------|:--------------|
+| M2                  | 45s           | Eta Carinae         | 5s            |
+| NGC 6217            | 45s           | NGC 3324            | 120s          |
+| NGC 5866            | 30s           | NGC 3293            | 11s           |
+| Abell 2218          | 180s          | NGC 2547            | 30s           |
+| NGC 6946            | 200s          | NGC 3201            | 55s           |
