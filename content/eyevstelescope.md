@@ -8,9 +8,9 @@ tags = ['eyevstelescope']
 
 Telescopes are much better at peering into the distant Universe than the human eye. But how are they able to see such faint and distant objects, and why is it that our eyes can’t? In this activity students will carry out experiments to investigate just how much more powerful the robotic telescopes are than their own  eyes.
 
-[**Human Eye Vs Robotic Telescope Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891ZWN5TnctdlRvN28/view?usp=sharing)
+[**Human Eye Vs Robotic Telescope Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891Zmt3TFFPNFByMHc/view?usp=sharing)
 
-[**Human Eye Vs Robotic Telescope Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891WWFCUUtXRWVITFU/view?usp=sharing)
+[**Human Eye Vs Robotic Telescope Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891WFlzSUR1a0NFNEE/view?usp=sharing)
 
 ### Full Instructions
 

@@ -24,13 +24,13 @@ In this activity students will use *Space Scoop*, astronomy children’s news st
 - Pencils and paper for each student
 - Multiple copies of several Space Scoop releases (available at [www.spacescoop.org](http://www.spacescoop.org)), or a few have been pre-selected: 
   - [The Planet That Lost An Ocean](http://www.spacescoop.org/en/scoops/1511/the-planet-that-lost-an-ocean/)
-  - [Sibling Stars in a Crushing Hug](www.spacescoop.org/en/scoops/1544/sibling-stars-in-a-crushing-hug/)
-  - [Rosetta Makes Friends With a Comet](www.spacescoop.org/en/scoops/1432/rosetta-makes-friends-with-a-comet/)
-  - [Ghost of the Southern Skies](www.spacescoop.org/en/scoops/1535/ghost-of-the-southern-skies/)
-  - [Super Star Takes On Black Holes in Jet Contest](www.spacescoop.org/en/scoops/1537/super-star-takes-on-black-holes-in-jet-contest/)
-  - [Before It's Famous](www.spacescoop.org/en/scoops/1239/before-it-is-famous/)
-  - [Lost and Found: The Milky Way's Missing Arms](www.spacescoop.org/en/scoops/1383/lost-and-found-the-milky-ways-missing-arms/)
-  - [When it Rains it Pours on the Sun](www.spacescoop.org/en/scoops/1424/when-it-rains-it-pours-on-the-sun/)
+  - [Sibling Stars in a Crushing Hug](http://www.spacescoop.org/en/scoops/1544/sibling-stars-in-a-crushing-hug/)
+  - [Rosetta Makes Friends With a Comet](http://www.spacescoop.org/en/scoops/1432/rosetta-makes-friends-with-a-comet/)
+  - [Ghost of the Southern Skies](http://www.spacescoop.org/en/scoops/1535/ghost-of-the-southern-skies/)
+  - [Super Star Takes On Black Holes in Jet Contest](http://www.spacescoop.org/en/scoops/1537/super-star-takes-on-black-holes-in-jet-contest/)
+  - [Before It's Famous](http://www.spacescoop.org/en/scoops/1239/before-it-is-famous/)
+  - [Lost and Found: The Milky Way's Missing Arms](http://www.spacescoop.org/en/scoops/1383/lost-and-found-the-milky-ways-missing-arms/)
+  - [When it Rains it Pours on the Sun](http://www.spacescoop.org/en/scoops/1424/when-it-rains-it-pours-on-the-sun/)
 
 ##### Step-by-Step
 
