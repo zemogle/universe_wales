@@ -12,7 +12,7 @@ This experiment demonstrates what happens when light is refracted. In this activ
 
 [Colours Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891X3BISUFrM25uYTQ/view?usp=sharing)
 
-[Colours Student Worksheet](https://drive.google.com/drive/folders/0B42a91Be7891eVdQMlVMUnNCTlU)
+[Colours Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891ZjZQMEROcXpSWmc/view?usp=sharing)
 
 ### Full Instructions
 
