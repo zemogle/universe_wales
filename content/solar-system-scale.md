@@ -8,9 +8,9 @@ tags = ['solar-system-scale']
 
 How long does it take to travel to the Moon? How long would it take to reach the edge of the Solar System? In this activity students learn about the size of the Solar System, beginning with the Earth and Moon, and expanding out to encompass all the planets. 
 
-[Scale of the Solar System Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891RUdGLW5xZWJRSFU/view?usp=sharing)
+[Scale of the Solar System Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891eEpvcXN0bXJ3N0U/view?usp=sharing)
 
-[Scale of the Solar System Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891eEpvcXN0bXJ3N0U/view?usp=sharing)
+[Scale of the Solar System Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891N0VZemtnRVJlWUE/view?usp=sharing)
 
 ### Full Instructions
 
