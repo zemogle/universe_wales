@@ -23,7 +23,7 @@ This experiment demonstrates what happens when light is refracted. In this activ
 
 ##### Materials
 
-- Copy of [Colours Student Worksheet](https://drive.google.com/drive/folders/0B42a91Be7891eVdQMlVMUnNCTlU) per student
+- Copy of [Colours Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891ZjZQMEROcXpSWmc/view?usp=sharing) per student
 - Sheet of white paper
 - A big bowl of water, a small mirror and a sunny day **OR** a CD/DVD and a torch
 
@@ -53,7 +53,7 @@ Violet light bends the most and red light bends the least. The difference in ang
 
 6) Explain that light travels in straight lines (see the [How Light Travels](https://drive.google.com/file/d/0B42a91Be7891WWItWFRLbzVYc0U/view?usp=sharing) activity for more information on how to demonstrate this) but it can be bent. For example the water has bent the light in this experiment. Tell them this is called Refraction. Light of different colours bends differently.
 
-7) Ask the students to fill out the [Colours Student Worksheet](https://drive.google.com/drive/folders/0B42a91Be7891eVdQMlVMUnNCTlU).
+7) Ask the students to fill out the [Colours Student Worksheet](https://drive.google.com/file/d/0B42a91Be7891ZjZQMEROcXpSWmc/view?usp=sharing).
 
 ##### Conclusion
 
