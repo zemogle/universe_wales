@@ -12,7 +12,7 @@ Without light sources we could not see the world around us, however not every ob
 
 *Light Sources* is an activity that invites students to investigate where light comes from, how it travels and how it can be used, before they use the power of light to explore the Universe!
 
-[**Light Sources Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891WWItWFRLbzVYc0U/view?usp=sharing)
+[**Light Sources Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891TGp3NkwtOXlHSjA/view?usp=sharing)
 
 [**Light Sources Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891VGt1Mkp3V0M4YlE/view?usp=sharing)
 
