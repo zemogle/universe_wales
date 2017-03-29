@@ -28,7 +28,7 @@ Enquiry-based learning techniques were taken into consideration in the design of
 
 ##### [Design a Galaxy](/galaxy-design/)
 
-##### [Galaxy Shape Poem](/galaxypoem/)
+##### [Galaxy Shape Poem](/galaxy-poem/)
 
 ##### [Discover Time Zones](/time-zones/)
 
