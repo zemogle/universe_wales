@@ -9,7 +9,7 @@ tags = ['uitc-reaches-all-counties']
 
 Last week Universe in the Classroom travelled to North Wales to visit schools in Colwyn Bay and Anglesey, our last unvisited county – meaning we’ve now hosted workshops in all 22 welsh counties!
 
-![northwales-5jul17](/images/northwales-5jul17.jpg/)
+![northwales-5jul17](/images/northwales-5jul17.jpg)
 
 Universe in the Classroom has been offering free school workshops since 2014, inspiring children with the wonders of the cosmos and introducing fantastic science role models to challenge negative stereotypes and promote diversity.
 
