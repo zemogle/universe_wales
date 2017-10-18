@@ -34,3 +34,12 @@ This comic aims to empower kids to see themselves as scientists, and the key to 
 Access to LCOGT’s robotic telescope network means that children in welsh primary schools can explore the wonders of the night sky during the school day without the need for an expensive school trip. However, the distance means the kids never get to experience the physical appearance of the telescopes - that’s where this 6cm model of LCOGTs 1-metre telescopes comes in. Children can print and build their own model telescope before or after carry out an observing session on a real-life version of this astronomical instrument.
 
 <div data-configid="23072955/32733689" style="width:525px; height:373px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+#### Build Your Own Serol
+
+The robot behind Las Cumbres Observatory is called SEROL ("Starry" in Welsh). SEROL controls the telescopes, you simply tell it what you'd like to observe and he will do all the hard work for you. SEROL helps children grasp the concept of the LCO scheduler, responsible for assigning observation requests to suitable telescopes across the network. With this model, children can print and build their own cute Serol robot, before asking Serol to schedule an observation on the LCO robotic telescope network.
+
+<div data-configid="23072955/54382470" style="width:400px; height:300px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+

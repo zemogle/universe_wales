@@ -13,6 +13,10 @@ If you have any comments or questions about the materials we offer, please conta
 
 Teacher guides, student worksheets and supporting material for a range of hands-on and digital astronomy-based classroom activities.
 
+##### [Adnoddau Cymraeg](/welsh-activities/)
+
+Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.
+
 ##### [Universe in a Box](/universe-in-a-box/)
 
 Information about the Universe-in-a-Box toolkit and a DIY guide to building a low-cost astronomy toolkit for your classroom.
