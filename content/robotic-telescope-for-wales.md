@@ -25,20 +25,26 @@ Schools involved in *Universe in the Classroom* are being offered a unique and e
 
 We have created two simple step-by-step guide: the first walks users through their first observing session and the second shows you how to download and add colour to your images. 
 
-[How to observe with LCOGT](/observing-guide/)<br>
+[How to observe with LCO](/observing-guide/)<br>
 </br>[How to colour your astronomical images](/colour-guide/)
 
 #### Screencasts 
 
-To make using the telescopes as simple as possible we have created a series of screencasts. The first instalment will walk you through how to observe with the telescopes and the second shows you how to add colour to your pictures of space. You can watch both of these videos below, or find them on Youtube using the links provided.
+To make using the telescopes as simple as possible we have created a series of screencasts. The first instalment will walk you through how to observe with the telescopes, the second shows you how to add colour to your pictures of space and the third video answers all your frequently asked questions. You can watch both of these videos below, or find them on Youtube using the links provided.
 
-<iframe width="700" height="525" src="https://www.youtube.com/embed/jiL4zqcz25g" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="525" src="https://www.youtube.com/embed/dmFHAIcogKA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="700" height="525" src="https://www.youtube.com/embed/HX4thuUy0Z0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="700" height="525" src="https://www.youtube.com/embed/VuctWZPg3gk" frameborder="0" allowfullscreen></iframe>
 
 #### SEROL
 
 The robot behind Las Cumbres Observatory is called SEROL ("Starry" in Welsh). SEROL controls the telescopes, you simply tell it what you'd like to observe and he will do all the hard work for you. This character appears throughout all of the Universe in the Classroom resources, watch out for it!
 
 ![SEROL multitasking](/images/Serol_multitasked-small.png)
+
+<iframe width="700" height="525" src="https://www.youtube.com/embed/fNk-VL57HUg" frameborder="0" allowfullscreen></iframe>
 
 If you are a welsh primary school teacher and have any queries about using the LCOGT On Sky interface contact the Universe in the Classroom project coordinator at [unawe@astro.cf.ac.uk](mailto:unawe@cardiff.cf.ac.uk)
 
