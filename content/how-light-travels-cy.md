@@ -1,7 +1,7 @@
 +++
 date = "2017-01-28T17:25:29Z"
 draft = false
-title = "How Light Travels"
+title = "Sut mae Golau’n Teithio"
 
 tags = ['light-cy']
 +++
