@@ -12,26 +12,26 @@ Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o 
 
 ##### [Sut mae Golau’n Teithio](/light-cy/)
 
-##### [Light Sources](/lightsources/)
+##### [Ffynonellau Golau](/lightsources-cy/)
 
-##### [Human Eye vs. Robotic Telescope](/eyevstelescope/)
+##### [Y Llygad Dynol yn erbyn Telesgop](/eyevstelescope-cy/)
 
-##### [Colours](/colours/)
+##### [Lliwiau](/colours-cy/)
 
-##### [Space Scoop Storytelling](/storytelling/)
+##### [Adrodd Storïau gyda Space Scoop](/storytelling-cy/)
 
-##### [Size of the Solar System](/solar-system-scale/)
+##### [Maint Cysawd yr Haul](/solar-system-scale-cy/)
 
-##### [Build a Model Telescope](/model-telescope/)
+##### [Adeiladu eich Model o Delesgop eich hun](/model-telescope-cy/)
 
-##### [Design a Galaxy](/galaxy-design/)
+##### [Dylunio Galaeth](/galaxy-design-cy/)
 
-##### [Galaxy Shape Poem](/galaxy-poem/)
+##### [Cerdd Siâp Galaeth](/galaxy-poem-cy/)
 
-##### [Discover Time Zones](/time-zones/)
+##### [Darganfod Cylchfaoedd Amser](/time-zones-cy/)
 
-##### [The Hemisphere](/hemispheres/)
+##### [Yr Hemisfferau](/hemispheres-cy/)
 
-##### [Dark Skies and Light Pollution](/darksky/)
+##### [DAwyr Dywyll a Llygredd Golau](/darksky-cy/)
 
-##### [Build Your Own Star Map](/planisphere/)
+##### [Adeiladu Eich Map Sêr Eich](/planisphere-cy/)
