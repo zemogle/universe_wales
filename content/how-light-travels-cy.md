@@ -8,13 +8,6 @@ tags = ['light-cy']
 
 Golau yw ein ffenest, nid yn unig i’r Bydysawd pell, ond i’r holl fyd o’n hamgylch. Yn y gweithgaredd hwn, bydd y disgyblion yn archwilio sut mae golau’n teithio; yn dysgu bod golau’n teithio mewn llinellau syth, a bod modd iddo gael ei adlewyrchu. Byddant hefyd yn dysgu am wrthrychau tryloyw ac anhryloyw.
 
-
-[**How Light Travels Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891WWItWFRLbzVYc0U/view?usp=sharing)
-
-[**How Light Travels Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891a3NoQjhLOTZ3ZjQ/view?usp=sharing)
-
-### Full Instructions
-
 ##### Amcanion Dysgu
 
 - Deall bod golau’n teithio mewn llinellau syth 

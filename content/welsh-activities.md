@@ -1,16 +1,16 @@
 +++
-date = "2017-10-17T17:25:29Z"
-draft = true
+date = "2016-01-28T17:25:29Z"
+draft = false
 title = "Adnoddau Cymraeg"
 
-tags = ['welsh-activities']
+tags = ['activities']
 +++
 
-Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.
+Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.carrying out any background research.
 
 ##### [Messier Bingo](/messier-bingo/)
 
-##### [How Light Travels](/how-light-travels/)
+##### [Sut mae Golau’n Teithio](/light-cy/)
 
 ##### [Light Sources](/lightsources/)
 
