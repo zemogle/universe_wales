@@ -8,7 +8,7 @@ tags = ['storytelling-cy']
 
 Defnyddio Space Scoop, storïau newyddion am seryddiaeth i blant, yn sylfaen i weithgaredd ysgrifennu creadigol a lluniadu sy’n addysgu’r disgyblion am ryfeddodau’r cosmos, ac wedyn defnyddio telesgopau robotig LCOGT i’w harchwilio eich hun!
 
-**This activity was written by Sarah Reed**
+[**Adrodd Storïau gyda Space Scoop canllaw athrawon**](https://drive.google.com/open?id=1xXqOWgX74DN8x09_6agCePt3UPNcIhAF)
 
 ##### Amcanion Dysgu
 

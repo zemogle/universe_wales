@@ -8,9 +8,10 @@ tags = ['eyevstelescope-cy']
 
 Mae telesgop yn llawer gwell ar weld y bydysawd pell na’r llygad dynol. Ond sut gallant weld gwrthrychau mor wan a phell, a pham na all ein llygaid ni eu gweld? Yn y gweithgaredd hwn, byddwch yn cynnal arbrofion i weld cymaint yn fwy pwerus yw telesgopau robotig na’r llygad dynol.
 
-[**Human Eye Vs Robotic Telescope Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891Zmt3TFFPNFByMHc/view?usp=sharing)
+[**Y Llygad Dynol yn erbyn Telesgop canllaw athrawon**](https://drive.google.com/file/d/1L_-j8sXv5gYaphZUxV0EUPGktj-WGzeW/view?usp=sharing)
 
-[**Human Eye Vs Robotic Telescope Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891WFlzSUR1a0NFNEE/view?usp=sharing)
+[**Y Llygad Dynol yn erbyn Telesgop taflen waith myfyrwyr**](https://drive.google.com/file/d/1o4hj8ktgSCgjbgywOu3x2ULRmhPGqRY4/view?usp=sharing)
+
 
 ### Full Instructions
 
@@ -28,8 +29,8 @@ Mae telesgop yn llawer gwell ar weld y bydysawd pell na’r llygad dynol. Ond su
 
 *I bob disgybl*
 
-- [**Taflen Waith y Llygad Dynol yn erbyn Telesgop Robotig wedi’i hargraffu i bob disgybl (Atodiad 3)**](https://drive.google.com/file/d/0B42a91Be7891WWFCUUtXRWVITFU/view?usp=sharing) per student
-- [**Protractor neu brotractor wedi’i argraffu i bob pâr (Atodiad 4)**](https://drive.google.com/file/d/0B42a91Be7891UHVjMFVTanFrTFU/view?usp=sharing)
+- [**Taflen Waith y Llygad Dynol yn erbyn Telesgop Robotig wedi’i hargraffu i bob disgybl (Atodiad 3)**](https://drive.google.com/file/d/0B42a91Be7891WWFCUUtXRWVITFU/view?usp=sharing)
+- [**Protractor neu brotractor wedi’i argraffu i bob pâr (Atodiad 4)**](https://drive.google.com/open?id=1THNF9_jq0p6OLim4MPnBImhnu7Q3auok)
 - Cyfrifiannell i bob pâr
 - Prennau mesur
 - Beiros neu bensiliau

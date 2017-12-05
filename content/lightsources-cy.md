@@ -8,11 +8,9 @@ tags = ['lightsources-cy']
 
 Yn y gweithgaredd hwn, bydd y disgyblion yn archwilio o ble y daw golau, sut mae’n teithio a sut mae modd ei ddefnyddio, cyn iddyn nhw ddefnyddio pŵer golau i archwilio’r Bydysawd!
 
-[**Light Sources Teacher Guide**](https://drive.google.com/file/d/0B42a91Be7891TGp3NkwtOXlHSjA/view?usp=sharing)
+[**Ffynonellau Golau canllaw athrawon**](https://drive.google.com/file/d/1sTGdOUvpMa3N-Wj1Bx4QIURcuJPo7Ixt/view?usp=sharing)
 
-[**Light Sources Student Worksheet**](https://drive.google.com/file/d/0B42a91Be7891VGt1Mkp3V0M4YlE/view?usp=sharing)
-
-### Full Instructions
+[**Ffynonellau Golau taflen waith myfyrwyr**](https://drive.google.com/file/d/1lDGKMRR4d3yFFxpyiYxY51Dz-lnB1Io6/view?usp=sharing)
 
 ##### Amcanion Dysgu
 
@@ -20,10 +18,9 @@ Yn y gweithgaredd hwn, bydd y disgyblion yn archwilio o ble y daw golau, sut mae
 - Nodi enghreifftiau o wahanol fathau o ffynonellau golau: naturiol ac artiffisial
 - Deall ein bod yn gweld gwrthrychau am fod golau’n adlewyrchu oddi arnynt i mewn i’n llygaid.
 
+##### Deunyddiau
 
-##### Materials
-
-- Taflen Waith Ffynonellau Golau i bob disgybl [**(Atodiad 2)**](https://drive.google.com/file/d/0B42a91Be7891NXBPMnpVa3lfbWs/view?usp=sharing)
+- Taflen Waith Ffynonellau Golau i bob disgybl [**(Atodiad 2)**](https://drive.google.com/file/d/1lDGKMRR4d3yFFxpyiYxY51Dz-lnB1Io6/view?usp=sharing)
 
 ##### Gwybodaeth Gefndir:
 

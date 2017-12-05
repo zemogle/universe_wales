@@ -8,6 +8,10 @@ tags = ['colours-cy']
 
 Yn y gweithgaredd hwn, bydd y disgyblion yn dysgu am liwiau drwy greu prism dŵr i dorri golau yn saith o liwiau’r enfys.
 
+[**Lliwiau canllaw athrawon**](https://drive.google.com/open?id=1qMzI9clV-rbt7CKNJkzHr-r6jDAex1Gh)
+
+[**Lliwiau taflen waith myfyrwyr**](https://drive.google.com/open?id=1Eu7te6d1Bi7gmxDpvypcc1L41WMD-xSS)
+
 ##### Amcanion Dysgu:
 
 - Deall bod golau’n teithio mewn llinellau syth a bod modd i olau gael ei blygu.
@@ -15,7 +19,7 @@ Yn y gweithgaredd hwn, bydd y disgyblion yn dysgu am liwiau drwy greu prism dŵr
 
 ##### Deunyddiau
 
-- Copi o Daflen Waith Lliwiau i bob disgybl (Atodiad 5)
+- Copi o Daflen Waith Lliwiau i bob disgybl [**Atodiad 5**](https://drive.google.com/open?id=1Eu7te6d1Bi7gmxDpvypcc1L41WMD-xSS)
 - Dalen o bapur gwyn 
 - Powlen fawr o ddŵr, drych bach a diwrnod heulog NEU CD/DVD a thortsh
 

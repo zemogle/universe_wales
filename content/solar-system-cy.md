@@ -3,10 +3,14 @@ date = "2016-02-10T11:09:29Z"
 draft = false
 title = "Maint Cysawd yr Haul"
 
-tags = ['solar-system-scale-cy']
+tags = ['solar-system-cy']
 +++
 
 Faint o amser mae’n cymryd i deithio i’r Lleuad? Faint o amser a gymerai i gyrraedd ymyl Cysawd yr Haul? Yn y gweithgaredd hwn, bydd y disgyblion yn dysgu am faint Cysawd yr Haul, gan ddechrau â’r Ddaear a’r Lleuad, ac ehangu i gynnwys yr holl blanedau. 
+
+[**Maint Cysawd yr Haul canllaw athrawon**](https://drive.google.com/open?id=1GLScj_FrKuOb6MgEki_xIhgnRlxpcUp9)
+
+[**Maint Cysawd yr Haul taflen waith myfyrwyr**](https://drive.google.com/open?id=1AFn90s3Wu4VrMYToiZ79Y7vBHDMbd3rs)
 
 ##### Amcanion Dysgu:
 

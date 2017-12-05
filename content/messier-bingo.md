@@ -9,7 +9,7 @@ tags = ['messierbingo']
 To make it as easy as possible to carry out an observing session with your class using the robotic telescope, we’ve incorporated the experience into a game of Bingo. It’s fun and easy to play: when you see an object you like, take your own picture with just the click of a button.
 
 - [Messier Bingo Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891cW1nOHZUejZnNTg/view?usp=sharing)
-- [Messier Bingo Tombola](http://lcogt.net/messierbingo/)
+- [Messier Bingo Tombola](https://messierbingo.lco.global/)
 
 ##### How to Play
  
@@ -27,7 +27,7 @@ If this is your first time playing Messier Bingo, you may want to introduce your
 
 1) Hand each player a bingo card. There are 30 cards in total but more than one person could have the same card in a large group.
 
-2) Open your browser and launch the Messier Bingo random image tombola from [**lcogt.net/messierbingo/**](http://lcogt.net/messierbingo/)
+2) Open your browser and launch the Messier Bingo random image tombola from [**messierbingo.lco.global/**](https://messierbingo.lco.global/)
 
 3) You will be prompted to log in. Enter your login details as requested to access Messier Bingo. This application will simulate the Bingo tombola and give you random Messier objects.
 
@@ -57,6 +57,4 @@ If this is your first time playing Messier Bingo, you may want to introduce your
 
 14) To win the game, the player must not only mark each object on their card, they must also be able to correctly identify the objects in the game. 
 
-###### Click here to find out how to view your observations.
-
-<
+[###### Click here to find out how to view your observations](https://www.youtube.com/watch?v=HaXoNYErMCg)

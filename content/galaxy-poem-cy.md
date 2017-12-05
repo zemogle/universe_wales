@@ -8,14 +8,12 @@ tags = ['galaxy-poem-cy']
 
 Yn y gweithgaredd hwn bydd y disgyblion yn ysgrifennu am alaethau tra’n ymarfer eu sgiliau creadigol mewn ymarferiad lluniadu ac ysgrifennu. 
 
+[**Cerdd Siâp Galaeth canllaw athrawon**](https://drive.google.com/open?id=1OhyovXcJgj3b2VVrDBudMahJvurG57_d)
 
-[Galaxy Shape Poem Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891WWVFLUhIakdPOFU/view?usp=sharing)
+[Taflen Ffeithiau'r Galaethau Droellog](https://drive.google.com/open?id=1VPTo9Hfi_pcZ9jYjN1j061v5WJTs4j-g)
 
-[Spiral Galaxy Factsheet](https://drive.google.com/file/d/0B42a91Be7891bVp2UzFhcFB0QjA/view?usp=sharing)
+[Cerdd Siâp Galaeth](https://drive.google.com/file/d/1wdrM1DuY-h50qPc_W-a8bWDMZWrzygoB/view?usp=sharing)
 
-[Galaxy Template](https://drive.google.com/file/d/0B42a91Be7891bHNFbklITDR0OFU/view?usp=sharing)
-
-### Full Instructions
 
 ##### Amcanion Dysgu:
 

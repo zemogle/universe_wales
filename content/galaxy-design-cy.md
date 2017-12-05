@@ -8,6 +8,14 @@ tags = ['galaxy-design-cy']
 
 Cewch ddysgu am y gwahanol fathau o alaethau anferth llawn sêr sydd yn y Bydysawd mewn gweithgaredd celf hwyliog, tra’n ymarfer sgiliau rhifedd hefyd!
 
+[**Dylunio Galaeth canllaw athrawon**](https://drive.google.com/open?id=1OhyovXcJgj3b2VVrDBudMahJvurG57_d)
+
+[Taflen Ffeithiau'r Galaethau Droellog](https://drive.google.com/open?id=1VPTo9Hfi_pcZ9jYjN1j061v5WJTs4j-g)
+
+[Taflen Ffeithiau'r Galaethau Droellog Farrog](https://drive.google.com/open?id=1JG-Qx0igpDVDNATz0QjTWlAXEjmFY6vs)
+
+[Taflen Ffeithiau'r Galaethau Droellog Eliptig](https://drive.google.com/open?id=1ka3_l7zJAYJod6yYFDMqUY4DwY5GhXM2)
+
 ##### Amcanion Dysgu:
 
 - Datblygu dealltwriaeth o’r nifer helaeth a’r amrywiaeth o alaethau sydd yn y Bydysawd,
@@ -16,7 +24,7 @@ Cewch ddysgu am y gwahanol fathau o alaethau anferth llawn sêr sydd yn y Bydysa
 
 ##### Materials
 
-- Taflenni Ffeithiau Galaeth (Atodiad 10) wedi’u hargraffu, un i bob disgybl
+- Taflenni Ffeithiau Galaeth [**(Atodiad 10)**]() wedi’u hargraffu, un i bob disgybl
 - Papur du
 - Gliter
 - Glud

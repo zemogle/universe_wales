@@ -8,7 +8,9 @@ tags = ['time-zones-cy']
 
 Mae gwahanol rannau o’r blaned yn profi gwahanol amserau. Pan mae’n amser cinio yng Nghymru, mae plant yn Awstralia eisoes yn cysgu’n braf! Mae cylchfaoedd amser yn gysyniad pwysig, ond cymhleth. Mae’r gweithgaredd hwn yn defnyddio arddangosiadau ymarferol i esbonio symudiad y Ddaear a’r angen am wahanol gylchfaoedd amser mewn ffordd glir a dealladwy.
 
-### Full Instructions
+[**Darganfod Cylchfaoedd Amser canllaw athrawon**](https://drive.google.com/open?id=1KBU5o_YrH6dOgWfGE8yy46XXepJEt6yQ)
+
+[**Darganfod Cylchfaoedd Amser taflen waith myfyrwyr**](https://drive.google.com/open?id=1n-J473JdlJDuDmKry1ShgchU10GdP33s)
 
 ##### Amcanion Dysgu:
 
@@ -16,13 +18,12 @@ Mae gwahanol rannau o’r blaned yn profi gwahanol amserau. Pan mae’n amser ci
 - Bydd y disgyblion yn dysgu sut i gyfrifo’r amser ar wahanol hydredau mewn perthynas â’r Prif Feridian.
 - Bydd y disgyblion yn gwerthfawrogi’r angen am delesgopau ar wahanol hydredau.
 
-
 ##### Deunyddiau
 
 - Pêl y Ddaear
 - 7 sticer bach
 - Lamp
-- Taflen Waith Cylchfaoedd Amser wedi’i hargraffu i bob disgybl (Atodiad 12)
+- Taflen Waith Cylchfaoedd Amser wedi’i hargraffu i bob disgybl [**(Atodiad 12)**](https://drive.google.com/open?id=1n-J473JdlJDuDmKry1ShgchU10GdP33s)
 
 ##### Gwybodaeth Gefndir
 

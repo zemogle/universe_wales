@@ -8,6 +8,10 @@ tags = ['model-telescope-cy']
 
 Yn y gweithgaredd hwn, bydd y plant yn adeiladu eu model eu hunain o delesgop LCOGT 40 cm i ddysgu mwy am sut mae’r dechnoleg hon yn casglu golau o’r Bydysawd pell. Bydd y gweithgaredd yn cynnwys sesiwn arsylwi gan ddefnyddio telesgop LCOGT 1 metr go iawn.
 
+[**Adeiladu eich Model o Delesgop eich hun canllaw athrawon**](https://drive.google.com/open?id=1bCAUfPFmWaalsuVXfGtWQCRjJ3VjJ6C8)
+
+[**Model Torlun o Delesgop**](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing)
+
 ##### Amcanion Dysgu
 
 - Dysgu am y mathau mwyaf cyffredin o delesgop: Adlewyrchu a Phlygu. 
@@ -16,7 +20,7 @@ Yn y gweithgaredd hwn, bydd y plant yn adeiladu eu model eu hunain o delesgop LC
 
 ##### Deunyddiau
 
-- Model Torlun o Delesgop wedi’i Argraffu i bob disgybl (Atodiad 7)
+- Model Torlun o Delesgop wedi’i Argraffu i bob disgybl [**(Atodiad 7)**](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing).
 - Siswrn 
 - Glud
 
@@ -44,7 +48,7 @@ Mae’r golau’n taro’r prif ddrych mawr ar gefn y telesgop, sydd fymryn yn g
 
 4)	Esboniwch fod dau brif fath o delesgop: plygu ac adlewyrchu. Mae telesgop plygu yn plygu a chwyddo’r golau gan ddefnyddio lens, ac mae telesgop adlewyrchu yn defnyddio drych crwm i gasglu cymaint o olau â phosib i greu delwedd. Dywedwch wrth y disgyblion eu bod nhw am adeiladu eu model eu hunain o delesgop adlewyrchu go iawn, ac wedyn yn rheoli un i greu delweddau o’r gofod!
 
-5)	I bob disgybl, rhowch Fodel o Delesgop 40 cm (Atodiad 7).
+5)	I bob disgybl, rhowch Fodel o Delesgop 40 cm [**(Atodiad 7)**](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing).
 
 6)	Gofynnwch iddynt ddilyn y cyfarwyddiadau ar y daflen i adeiladu eu model eu hunain o delesgop.
 

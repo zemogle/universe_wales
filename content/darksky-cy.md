@@ -8,6 +8,10 @@ tags = ['darksky-cy']
 
 Yn y gweithgaredd hwn byddwch yn adeiladu planetariwm yn eich ystafell ddosbarth, gan roi cyfle i’ch disgyblion archwilio effeithiau llygredd golau, arbrofi ag atebion posibl a dysgu pam fod ar seryddwyr angen awyr dywyll. 
 
+[**Awyr Dywyll a Llygredd Golau canllaw athrawon**](https://drive.google.com/open?id=1-c7gEEUyZ_4up2U8xUGEOxM-KO6Z6AH3)
+
+[**Awyr Dywyll a Llygredd Golau taflen waith myfyrwyr**](https://drive.google.com/open?id=1bXaMR7m2b7euTNhUxqu-rIG1wz6gY4sR)
+
 #### Amcanion Dysgu:
 
 - Archwilio effeithiau llygredd golau ac arbrofi ag atebion posib.
@@ -15,8 +19,8 @@ Yn y gweithgaredd hwn byddwch yn adeiladu planetariwm yn eich ystafell ddosbarth
 
 #### Deunyddiau
 
-- Taflen waith Awyr Dywyll i bob disgybl (Atodiad 14)
-- Lluniau’r Arsyllfeydd wedi’u hargraffu (Atodiad 15) neu PowerPoint Lluniau’r Arsyllfeydd wedi’i lawrlwytho: http://tinyurl.com/observatory-PPT 
+- Taflen waith Awyr Dywyll i bob disgybl [**(Atodiad 14)**](https://drive.google.com/open?id=1bXaMR7m2b7euTNhUxqu-rIG1wz6gY4sR)
+- Lluniau’r Arsyllfeydd wedi’u hargraffu [**(Atodiad 15)**](https://drive.google.com/open?id=1pgno1P_wiRuc8y6s30ybZkQDY8UCnvQh) neu PowerPoint Lluniau’r Arsyllfeydd wedi’i lawrlwytho:[tinyurl.com/observatory-PPT](http://tinyurl.com/observatory-PPT)
 - Bocs cardbord bach (7cm x 7cm)
 - Plât papur (gwyn) neu bapur gwyn
 - Blanced fawr neu ddwy

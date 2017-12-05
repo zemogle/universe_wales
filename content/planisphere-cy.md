@@ -8,6 +8,10 @@ tags = ['planisphere-cy']
 
 Gwnewch fap sêr sy’n cylchdroi (a elwir yn blanisffer) i archwilio awyr y nos. Gall planisffer ddangos y sêr a’r cytserau yn yr awyr ar unrhyw amser neu ddyddiad penodol.
 
+[**Adeiladu Eich Map Sêr Eich: canllaw athrawon**](https://drive.google.com/file/d/1sTGdOUvpMa3N-Wj1Bx4QIURcuJPo7Ixt/view?usp=sharing)
+
+[**Templed Planisffer**](https://drive.google.com/open?id=1r98gm7jMq_l-GDo4PJ9Rp4H6xkcb0ajP)
+
 ##### Amcanion Dysgu:
 
 - Dysgu sut gall planisffer gael ei ddefnyddio i ganfod eich ffordd drwy awyr y nos a darganfod ein lle yn y Bydysawd

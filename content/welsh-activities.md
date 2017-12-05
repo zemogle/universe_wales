@@ -8,7 +8,7 @@ tags = ['welsh-activities']
 
 Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.carrying out any background research.
 
-##### [Messier Bingo](/messier-bingo/)
+##### [Messier Bingo](/messier-bingo-cy/)
 
 ##### [Sut mae Golau’n Teithio](/light-cy/)
 
@@ -20,7 +20,7 @@ Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o 
 
 ##### [Adrodd Storïau gyda Space Scoop](/storytelling-cy/)
 
-##### [Maint Cysawd yr Haul](/solar-system-scale-cy/)
+##### [Maint Cysawd yr Haul](/solar-system-cy/)
 
 ##### [Adeiladu eich Model o Delesgop eich hun](/model-telescope-cy/)
 

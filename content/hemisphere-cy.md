@@ -8,6 +8,8 @@ tags = ['hemispheres-cy']
 
 Mae tua 9000 o sêr yn ddigon llachar i’w gweld â’r llygad noeth, ond hyd yn oed yn y safle arsylwi mwyaf perffaith, dim ond hanner ohonynt y mae modd inni weld ar unwaith. Y rheswm am hyn yw y bydd y blaned bob amser yn cuddio rhan o awyr y nos o’n golwg. Bydd y gweithgaredd hwn yn esbonio’r syniad cymhleth hwn gan ddefnyddio arddangosiad ymarferol syml, a hefyd yn esbonio cysyniadau pwysig y Cyhydedd a’r Hemisfferau.
 
+[**Yr Hemisfferau canllaw athrawon**](https://drive.google.com/open?id=1A5fGreG-qaVkdHcLt8zL3QVCNYNplg6t)
+
 #### Amcanion Dysgu
 
 - Nodi safle ac arwyddocâd y Cyhydedd, Hemisffer y Gogledd a Hemisffer y De.
