@@ -51,7 +51,7 @@ Pe byddai gan fodel raddfa o "1:10", byddai gan unrhyw fodel sydd â maint o "1"
 
 5)	A allant ddefnyddio cyfrifiannell i gyfrifo faint fyddai’n cymryd i deithio i’r Lleuad ar fwrdd New Horizons?
 
-	384,000 ÷ 58,536 = 6.56 awr.
+**384,000 ÷ 58,536 = 6.56 awr**
 
 6)	Nesaf gofynnwch i’r disgyblion beth yw’r gwrthrych agosaf nesaf i’r Ddaear? (Ateb: Mawrth.) Yn rhan nesaf y gweithgarwch, byddant yn dysgu maint Cysawd yr Haul a’r pellter rhwng y gwrthrychau. 
 
@@ -93,7 +93,7 @@ Plwton | 5 910 000 000 | 591
 
 15) Gofynnwch i’r myfyrwyr gyfrifo faint o amser a gymerai i deithio i bob un o’r planedau ar fwrdd New Horizons gan ddefnyddio’r pellteroedd yn eu tabl. Byddant yn trosi’r rhif o oriau i ddiwrnodau (drwy rannu â 24). 
 
-Dewis arall: Defnyddiwch ddarn o bapur sgrap i greu model o Gysawd yr Haul. I wneud hyn, bydd arnoch angen sawl dalen o bapur A2 neu A3 wedi’u torri ar eu hyd i greu sawl stribed tua 5cm o led. Plygwch y papur yn ei hanner (eu plygu yn eu hyd bob amser). Lluniadwch a labelwch Wranws yn y plygiad. Plygwch y ddau ben i’r canol. Mewn un plygiad lluniadwch Neifion, a lluniadwch Sadwrn yn y llall. Plygwch hyd at Sadwrn a lluniadwch Iau yn y plygiad. Plygwch hyd at Iau. Y plygiad hwn fydd y gwregys asteroidau. Plygwch hyd at y gwregys asteroidau. Y plygiad hwn fydd Mawrth. Yn olaf, plygwch hyd at blaned Mawrth ac wedyn plygwch eto. Y tri phlygiad rhwng Mawrth a’r ymyl fydd y Ddaear, Gwener a Mercher. Ymyl y papur yw’r Haul. Y pen arall yw lleoliad planed gorachaidd Plwton. 
+**Dewis arall**: *Defnyddiwch ddarn o bapur sgrap i greu model o Gysawd yr Haul. I wneud hyn, bydd arnoch angen sawl dalen o bapur A2 neu A3 wedi’u torri ar eu hyd i greu sawl stribed tua 5cm o led. Plygwch y papur yn ei hanner (eu plygu yn eu hyd bob amser). Lluniadwch a labelwch Wranws yn y plygiad. Plygwch y ddau ben i’r canol. Mewn un plygiad lluniadwch Neifion, a lluniadwch Sadwrn yn y llall. Plygwch hyd at Sadwrn a lluniadwch Iau yn y plygiad. Plygwch hyd at Iau. Y plygiad hwn fydd y gwregys asteroidau. Plygwch hyd at y gwregys asteroidau. Y plygiad hwn fydd Mawrth. Yn olaf, plygwch hyd at blaned Mawrth ac wedyn plygwch eto. Y tri phlygiad rhwng Mawrth a’r ymyl fydd y Ddaear, Gwener a Mercher. Ymyl y papur yw’r Haul. Y pen arall yw lleoliad planed gorachaidd Plwton.*
 
 ##### Casgliad
 

@@ -12,7 +12,7 @@ I’w gwneud mor hawdd â phosib i gynnal sesiwn arsylwi, rydyn ni wedi cynnwys 
 
 Isod, cewch yr holl wybodaeth sydd ei hangen arnoch i gynnal arsylwadau gan ddefnyddio telesgopau robotig LCO. 
 
-- [Messier Bingo Canllaw i Athrawon](https://drive.google.com/file/d/0B42a91Be7891cW1nOHZUejZnNTg/view?usp=sharing)
+- [Messier Bingo Canllaw i Athrawon](https://drive.google.com/open?id=14rT8rEjkpyS-g-8vtG71-5zRxfE8SQn7)
 - [Messier Bingo Tombola](https://messierbingo.lco.global/)
 
 ##### Sut i chwarae
@@ -61,4 +61,4 @@ Os mai dyma eich tro cyntaf yn chwarae Messier Bingo, efallai yr hoffech gyflwyn
 
 14) I ennill y gêm, nid yn unig y bydd angen i’r chwaraewr fod wedi marcio pob gwrthrych ar y cerdyn, ond bydd hefyd angen iddi/iddo allu enwi’r gwrthrychau yn y gêm yn  gywir. 
 
-[###### Click here to find out how to view your observations (English only)](https://www.youtube.com/watch?v=HaXoNYErMCg)
+[**Click here to find out how to view your observations (English only)**](https://www.youtube.com/watch?v=HaXoNYErMCg)

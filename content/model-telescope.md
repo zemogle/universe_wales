@@ -12,7 +12,7 @@ In this activity, learn about the most common types of telescope and how they co
 
 [Telescopes Teacher Guide](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing)
 
-[Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing)
+[Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/1jTDhLS5LzX0hl9DyA6PrD-kLQQBzg8DU/view?usp=sharing)
 
 ### Full Instructions
 
@@ -24,7 +24,7 @@ In this activity, learn about the most common types of telescope and how they co
 
 ##### Materials
 
-- Printed [Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing) per student
+- Printed [Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/1jTDhLS5LzX0hl9DyA6PrD-kLQQBzg8DU/view?usp=sharing) per student
 - Scissors
 - Glue
 
@@ -52,8 +52,7 @@ The light hits the large, main mirror at the back of the telescope, which is sli
 
 4) Explain that there are two main types of telescope: refractor and reflector. Refractor telescopes bend and magnify the light using a lens and reflector telescopes use a curved mirror to collect as much light as possible to create an image. Tell students they are going to build their own model of a real reflector telescope before they control one to take images if outer space!
 
-5) Hand each student a [Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing)
-
+5) Hand each student a [Cut-out Model of a 40-cm Telescope](https://drive.google.com/file/d/1jTDhLS5LzX0hl9DyA6PrD-kLQQBzg8DU/view?usp=sharing)
 
 6) Ask them to follow the instructions on the sheet to build their own model telescope.
 

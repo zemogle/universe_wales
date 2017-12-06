@@ -19,16 +19,22 @@ Defnyddio Space Scoop, storïau newyddion am seryddiaeth i blant, yn sylfaen i w
 
 - Pensiliau a phapur i bob disgybl
 - Nifer o gopïau o gyhoeddiadau Space Scoop(ar gael fan hyn: [www.spacescoop.org/cy/](http://www.spacescoop.org/cy/):
+
 		- [Rhamant Serol i’w Orffen Mewn Anobaith](http://www.spacescoop.org/cy/scoops/1508/rhamant-serol-i-w-orffen-mewn-anobaith/)
+
 		- [Dysgu o'r Sêr: Ailgylchu Cosmig](http://www.spacescoop.org/cy/scoops/1538/dysgu-or-sêr-ailgylchu-cosmig/)
+
 		- [Llwch y Gofod](http://www.spacescoop.org/cy/scoops/1722/llwch-y-gofod/)
+
 		- [Ble’r aeth y sêr gwib uwchben?](http://www.spacescoop.org/cy/scoops/1725/ble-r-aeth-y-sêr-gwib-uwchben/)
+
 		- [Galaethau yn Gymdogion Drwg](http://www.spacescoop.org/cy/scoops/1452/galaethau-yn-gymdogion-drwg/)
+
 		- [Galaethau’n Cwrdd i Greu Arddangosfa Drawiadol](http://www.spacescoop.org/cy/scoops/1453/galaethau-n-cwrdd-i-greu-arddangosfa-drawiadol/)
 
 ##### Gwybodaeth Gefndir:
 
-		Tra bo seryddwyr proffesiynol yn ymdrechu i ehangu ein dealltwriaeth o’r Bydysawd, mae cyfathrebwyr gwyddoniaeth yn gwneud gwaith yr un mor bwysig: rhannu’r wybodaeth newydd hon gyda’r cyhoedd. Mae cyfathrebu seryddiaeth yn arbennig o bwysig i blant, a’r nod wrth dynnu eu sylw at ddarganfyddiadau newydd cyffrous yw eu hysbrydoli i ddatblygu diddordeb mewn gwyddoniaeth a thechnoleg. 
+Tra bo seryddwyr proffesiynol yn ymdrechu i ehangu ein dealltwriaeth o’r Bydysawd, mae cyfathrebwyr gwyddoniaeth yn gwneud gwaith yr un mor bwysig: rhannu’r wybodaeth newydd hon gyda’r cyhoedd. Mae cyfathrebu seryddiaeth yn arbennig o bwysig i blant, a’r nod wrth dynnu eu sylw at ddarganfyddiadau newydd cyffrous yw eu hysbrydoli i ddatblygu diddordeb mewn gwyddoniaeth a thechnoleg. 
 
 ##### Cyfarwyddiadau
 
@@ -50,9 +56,9 @@ Defnyddio Space Scoop, storïau newyddion am seryddiaeth i blant, yn sylfaen i w
 
 8) Yn olaf, gofynnwch i’r plant fynd i bâr gyda’r person y gwnaethon nhw gyfnewid stori â nhw: 
 
-	a) A yw’r lluniau’n debyg i’r hyn a ddychmygai adroddwyr y stori o ran golwg y gwrthrychau neu ddigwyddiad wrth ysgrifennu adroddiad y llygad-dyst (neu a ydyn nhw’n debyg i’r lluniau a ddefnyddiwyd yn Space Scoop)? Os ydyn nhw’n wahanol, gofynnwch iddyn nhw geisio darganfod pam. 
+a) A yw’r lluniau’n debyg i’r hyn a ddychmygai adroddwyr y stori o ran golwg y gwrthrychau neu ddigwyddiad wrth ysgrifennu adroddiad y llygad-dyst (neu a ydyn nhw’n debyg i’r lluniau a ddefnyddiwyd yn Space Scoop)? Os ydyn nhw’n wahanol, gofynnwch iddyn nhw geisio darganfod pam. 
 
-    b) A allai adroddwr y stori fod wedi defnyddio mwy o ddisgrifiad i helpu’r darllenydd? Neu a yw’r gwrthrych neu’r digwyddiad seryddol hwn mor rhyfedd ac od fel bod llawer o wahanol syniadau ynglŷn â sut olwg sydd arno, a bod y cyfan yr un mor gywir? A yw seryddwyr proffesiynol, hyd yn oed, yn gwybod sut olwg sydd arno go iawn?
+b) A allai adroddwr y stori fod wedi defnyddio mwy o ddisgrifiad i helpu’r darllenydd? Neu a yw’r gwrthrych neu’r digwyddiad seryddol hwn mor rhyfedd ac od fel bod llawer o wahanol syniadau ynglŷn â sut olwg sydd arno, a bod y cyfan yr un mor gywir? A yw seryddwyr proffesiynol, hyd yn oed, yn gwybod sut olwg sydd arno go iawn?
 
 ![Storytelling Workshop](/images/storytelling.png)
 

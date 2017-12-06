@@ -23,6 +23,7 @@ Yn y gweithgaredd hwn bydd y disgyblion yn ysgrifennu am alaethau tra’n ymarfe
 ##### Materials
 
 *I bob disgybl*
+
 - Taflen Ffeithiau Galaeth Droellog wedi’i hargraffu (Atodi 10)
 - Templed Galaeth wedi’i hargraffu (Atodiad 11)
 - Papur sgrap

@@ -8,7 +8,7 @@ tags = ['galaxy-design-cy']
 
 Cewch ddysgu am y gwahanol fathau o alaethau anferth llawn sêr sydd yn y Bydysawd mewn gweithgaredd celf hwyliog, tra’n ymarfer sgiliau rhifedd hefyd!
 
-[**Dylunio Galaeth canllaw athrawon**](https://drive.google.com/open?id=1OhyovXcJgj3b2VVrDBudMahJvurG57_d)
+[Dylunio Galaeth canllaw athrawon](https://drive.google.com/open?id=1OhyovXcJgj3b2VVrDBudMahJvurG57_d)
 
 [Taflen Ffeithiau'r Galaethau Droellog](https://drive.google.com/open?id=1VPTo9Hfi_pcZ9jYjN1j061v5WJTs4j-g)
 
@@ -24,7 +24,7 @@ Cewch ddysgu am y gwahanol fathau o alaethau anferth llawn sêr sydd yn y Bydysa
 
 ##### Materials
 
-- Taflenni Ffeithiau Galaeth [**(Atodiad 10)**]() wedi’u hargraffu, un i bob disgybl
+- Taflenni Ffeithiau Galaeth (Atodiad 10) wedi’u hargraffu, un i bob disgybl
 - Papur du
 - Gliter
 - Glud
@@ -102,6 +102,6 @@ A yw hyn yn golygu ei fod yn fwy/llai mewn bywyd go iawn? Yr ateb yw ei fod yn a
 
 A’ch dosbarth bellach yn gyfarwydd â beth yw galaeth a’u bodolaeth yn y Bydysawd, defnyddiwch y telesgopau robotig i dynnu tri llun, un o bob math o alaeth: troellog, troellog barrog ac eliptig. 
 
-##### ¥	Cysylltiadau â’r Cwricwlwm:
+##### Cysylltiadau â’r Cwricwlwm:
 
 Mathemateg CA2 yng Nghwricwlwm Cenedlaethol Cymru, *“Cyfrifo mewn Amrywiaeth o Ffyrdd” ac “Ymchwilio i Batrymau a Pherthnasoedd”*.

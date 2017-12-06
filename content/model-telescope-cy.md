@@ -10,7 +10,7 @@ Yn y gweithgaredd hwn, bydd y plant yn adeiladu eu model eu hunain o delesgop LC
 
 [**Adeiladu eich Model o Delesgop eich hun canllaw athrawon**](https://drive.google.com/open?id=1bCAUfPFmWaalsuVXfGtWQCRjJ3VjJ6C8)
 
-[**Model Torlun o Delesgop**](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing)
+[**Model Torlun o Delesgop**](https://drive.google.com/file/d/1jTDhLS5LzX0hl9DyA6PrD-kLQQBzg8DU/view?usp=sharing)
 
 ##### Amcanion Dysgu
 
@@ -20,7 +20,7 @@ Yn y gweithgaredd hwn, bydd y plant yn adeiladu eu model eu hunain o delesgop LC
 
 ##### Deunyddiau
 
-- Model Torlun o Delesgop wedi’i Argraffu i bob disgybl [**(Atodiad 7)**](https://drive.google.com/file/d/0B42a91Be7891MlpxWl9DVWdETnc/view?usp=sharing).
+- Model Torlun o Delesgop wedi’i Argraffu i bob disgybl [**(Atodiad 7)**](https://drive.google.com/file/d/1jTDhLS5LzX0hl9DyA6PrD-kLQQBzg8DU/view?usp=sharing).
 - Siswrn 
 - Glud
 

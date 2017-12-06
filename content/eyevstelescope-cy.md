@@ -29,8 +29,8 @@ Mae telesgop yn llawer gwell ar weld y bydysawd pell na’r llygad dynol. Ond su
 
 *I bob disgybl*
 
-- [**Taflen Waith y Llygad Dynol yn erbyn Telesgop Robotig wedi’i hargraffu i bob disgybl (Atodiad 3)**](https://drive.google.com/file/d/0B42a91Be7891WWFCUUtXRWVITFU/view?usp=sharing)
-- [**Protractor neu brotractor wedi’i argraffu i bob pâr (Atodiad 4)**](https://drive.google.com/open?id=1THNF9_jq0p6OLim4MPnBImhnu7Q3auok)
+- Taflen Waith y Llygad Dynol yn erbyn Telesgop Robotig wedi’i hargraffu i bob disgybl [**(Atodiad 3)**](https://drive.google.com/open?id=1o4hj8ktgSCgjbgywOu3x2ULRmhPGqRY4)
+- Protractor neu brotractor wedi’i argraffu i bob pâr [**(Atodiad 4)**](https://drive.google.com/open?id=1THNF9_jq0p6OLim4MPnBImhnu7Q3auok)
 - Cyfrifiannell i bob pâr
 - Prennau mesur
 - Beiros neu bensiliau

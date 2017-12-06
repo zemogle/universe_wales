@@ -84,7 +84,7 @@ Ali | Tibet, China
 
 12) Gofynnwch i’r disgyblion nodi’r llinell sy’n rhedeg i lawr canol eu taflen waith mewn lliw llachar. 
 
-![Time Zones Worksheet](/images/Appendix12_TimeZones.jpg)
+![Time Zones Worksheet](/images/Aatodiad12-scrn.png)
 
 13) Gofynnwch i’r dosbarth labelu’r llinell â’r geiriau ‘Prif Feridian’. Esboniwch fod y Prif Feridian yn rhedeg drwy Greenwich ger Llundain.
 
