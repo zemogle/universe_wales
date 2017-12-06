@@ -2,7 +2,7 @@
 <div class="section">
   <div class="container">
     <div class="row" style="margin-top:1.5em;">
-      <ol class="post-list">
+      <ul class="post-list">
         {{ $pag := .Paginate .Data.Pages }}
         {{ range $pag.Pages }}
         <li><span class="article-title"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
@@ -10,7 +10,7 @@
             on <strong>{{ .Date.Format "Mon, Jan 02, 2006" }}</strong>
         </span></li>
         {{ end }}
-      </ol>
+      </ul>
 
     <div class="post-navigation">
       {{ template "_internal/pagination.html" . }}
