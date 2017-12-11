@@ -31,7 +31,7 @@ If this is your first time playing Messier Bingo, you may want to introduce your
 
 3) You will be prompted to log in. Enter your login details as requested to access Messier Bingo. This application will simulate the Bingo tombola and give you random Messier objects.
 
-![Messier Bingo Scrn1](/images/messierbingo-scrn1.png/)
+![Messier Bingo Scrn1](/images/messierbingo-scrn1.jpg/)
 
 4) Select whether you want information to display. For the first few rounds you will want to keep the information visible so the students can become familiar with the types of object.
 
@@ -51,7 +51,7 @@ If this is your first time playing Messier Bingo, you may want to introduce your
 
 12) To observe the image click ‘**Take your own picture**’. 
 
-![Messier Bingo Scrn2](/images/messierbingo-scrn2.png)
+![Messier Bingo Scrn2](/images/messierbingo-scrn2.jpg)
 
 13) Continue the game until a student has marked all the objects on their sheet, repeating steps 10-13 each time a student achieves a full row.
 
