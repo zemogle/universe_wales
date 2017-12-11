@@ -61,7 +61,7 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 	- Sut mae’r golau’n cael ei effeithio gan wahanol ddeunyddiau?
 	- Faint o’r propiau gallan nhw ddefnyddio yr un pryd, a chael y golau i gyrraedd y targed ar y wal?
 
-{{<figure src="/images/HowLightTravels.png/" title="Volunteers demonstrate how light can be directed using reflective material such as mirrors.">}}
+![How Light Travels](/images/images/HowLightTravels.png/)
 
 5) Nesaf, gofynnwch i’r disgyblion eistedd i lawr a phylwch y golau.
 
@@ -79,7 +79,7 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 
 11) Wedi i’r gwirfoddolwr anelu’r pelydryn at y targed yn llwyddiannus, gofynnwch am wirfoddolwr arall, a rhowch ail ddrych iddi/iddo. Gofynnwch iddynt weithio gyda’i gilydd i geisio cyfeirio’r pelydryn at y targed gan ddefnyddio’r ddau ddrych.
 
-{{<figure src="/images/Reflection-Demo.png/" title="Volunteers demonstrate Step 11 of the **How Light Travels** activity.">}}
+![Reflection demo](/images/images/Reflection-Demo.png/)
 
 12) Esboniwch, pan fo golau’n bownsio oddi ar arwyneb, y caiff hyn ei alw’n adlewyrchu. Ysgrifennwch y gair hwn ar y bwrdd.
 
@@ -87,7 +87,7 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 
 14) Nesaf, rhowch daflen waith Telesgop Adlewyrchu (Atodiad 1) i bob disgybl. Gofynnwch iddynt luniadu’r llwybr y mae’r golau’n ei ddilyn o’r sêr i’r llygad, drwy’r telesgop, ar eu diagram o delesgop 1 metr (dylai’r canlyniad edrych yn debyg i’r ddelwedd isod), ac am lenwi’r bylchau yng Nghwestiwn 2.  
 
-{{<figure src="/images/reflector_telescope_diagram.png/" title="Diagram showing the path cosmic light takes through a reflector telescope to the eyepiece.">}}
+![Reflector telescope diagram](/images/images/reflector_telescope_diagram.png/)
 
 ##### Casgliad
 
