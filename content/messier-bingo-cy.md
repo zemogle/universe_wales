@@ -35,7 +35,7 @@ Os mai dyma eich tro cyntaf yn chwarae Messier Bingo, efallai yr hoffech gyflwyn
 
 3) Cewch wahoddiad i fewngofnodi. Rhowch eich manylion mewngofnodi i gael mynediad i Messier Bingo. Bydd yr app hwn yn efelychu tombola Bingo ac yn rhoi gwrthrychau Messier ichi ar hap.
 
-![Messier Bingo Scrn1](/images/messierbingo-scrn1.png/)
+![Messier Bingo Scrn1](/images/messierbingo-scrn1.jpg/)
 
 4) Dewiswch a ydych eisiau i wybodaeth gael ei dangos. Yn yr ychydig rowndiau cyntaf, byddwch eisiau cadw’r wybodaeth yn weladwy er mwyn i’r disgyblion gael ymgyfarwyddo â’r mathau o wrthrychau.
 
@@ -55,7 +55,7 @@ Os mai dyma eich tro cyntaf yn chwarae Messier Bingo, efallai yr hoffech gyflwyn
 
 12) I arsylwi’r llun, cliciwch ar ‘**Take your own picture**’. 
 
-![Messier Bingo Scrn2](/images/messierbingo-scrn2.png)
+![Messier Bingo Scrn2](/images/messierbingo-scrn2.jpg)
 
 13) Ewch ymlaen â’r gêm hyd nes bod disgybl wedi marcio pob gwrthrych ar y daflen, gan ailadrodd camau 10-13 bob tro y bydd disgybl wedi llenwi rhes gyfan.
 
