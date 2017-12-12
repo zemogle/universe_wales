@@ -64,7 +64,7 @@ b. Can light travel through objects? c. Can light change direction?
 	- How is the light affected by different materials?
 	- How many of their props can they use at the same time and still get 	their light to reach target on the wall?
 
-{{<figure src="/images/HowLightTravels.png/" title="Volunteers demonstrate how light can be directed using reflective material such as mirrors.">}}
+![How Light Travels](/images/HowLightTravels.png)
 
 5) Next, ask the students to sit down and dim the lights.
 
@@ -82,7 +82,7 @@ b. Can light travel through objects? c. Can light change direction?
 
 11) Once they have successfully aimed the beam at the target, ask for another volunteer and hand them a second mirror. Ask them to work together to try to direct the beam to the target using both mirrors.
 
-{{<figure src="/images/Reflection-Demo.png/" title="Volunteers demonstrate Step 11 of the **How Light Travels** activity.">}}
+![Reflection demo](/images/Reflection-Demo.png)
 
 12) Explain that when light bounces off a surface it is called reflection. Write this word on the board.
 
@@ -90,7 +90,7 @@ b. Can light travel through objects? c. Can light change direction?
 
 14) Now hand each student a Reflecting Telescope worksheet (Appendix 1). Ask them to draw the path light takes from the stars to the eye, through the telescope, on their Diagram of a 1-metre Telescope (the result should look similar to the image below), and to fill in the gaps for **Question 2**.
 
-{{<figure src="/images/reflector_telescope_diagram.png/" title="Diagram showing the path cosmic light takes through a reflector telescope to the eyepiece.">}}
+![Reflector telescope diagram](/images/reflector_telescope_diagram.png)
 
 ##### Conclusion
 
