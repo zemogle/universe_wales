@@ -43,17 +43,17 @@ Mae’r ffenestr wedi’i nodi i ddangos cyfeiriad gorwel y dwyrain a’r gorlle
 
 **Note: Make sure you cut out the white inner sections (see image below).**
 
-![Planisphere Scrn 2](/images/planisphere-scrn2.png/)
+![Planisphere Scrn 2](/images/planisphere-scrn2.png)
 
 Noder: Gwnewch yn siŵr eich bod yn torri’r darnau mewn gwyn i ffwrdd (gweler y llun isod). 
 
 3) Nesaf, torrwch gylchoedd Map Sêr Hemisffer y De a Map Sêr Hemisffer y Gogledd ar drydedd a phedwaredd dudalen y templed.
 
-![Planisphere Scrn 4](/images/planisphere-scrn4.png/)
+![Planisphere Scrn 4](/images/planisphere-scrn4.png)
 
 4) Gludwch y cylchoedd at ei gilydd, gefn wrth gefn, gyda’r lluniadau ar y tu allan a’r darn o gardbord rhyngddyn nhw i’w cryfhau. Gwnewch yn siŵr bod y misoedd yn cyd-fynd ar y ddwy ochr. Tociwch gorneli’r cardbord.
 
-![Planisphere Scrn 3](/images/planisphere-scrn3.png/)
+![Planisphere Scrn 3](/images/planisphere-scrn3.png)
 
 5) Wedi ichi wneud hyn, rhowch y cylch mewnol i’r naill ochr. 
 
@@ -67,7 +67,7 @@ Noder: Gwnewch yn siŵr eich bod yn torri’r darnau mewn gwyn i ffwrdd (gweler 
 
 **Noder:** I sicrhau’r canlyniadau gorau, trowch i ochr Hemisffer y Gogledd a gwthiwch y tag trysorlys yn syth drwy Seren y Gogledd. Hon yw’r seren sydd fymryn yn fwy o faint ynghanol yr olwyn, yng nghytser yr Arth Fach.
 
-![Planisphere Scrn](/images/planisphere-scrn.png/)
+![Planisphere Scrn](/images/planisphere-scrn.png)
 
 11) Yn awr dylai fod gennych fap sêr sy’n cylchdroi i’w ddefnyddio i ganfod pa gytserau a gwrthrychau y mae modd eu gweld yn awyr y nos drwy gydol y flwyddyn, yn Hemisffer y Gogledd a Hemisffer y De!
 
@@ -83,7 +83,7 @@ Noder: Gwnewch yn siŵr eich bod yn torri’r darnau mewn gwyn i ffwrdd (gweler 
 
 **Nodyn:** Mae’r rhai sy’n byw yn Hemisffer y Gogledd yn ffodus bod Seren y Gogledd i’w gweld yn uniongyrchol uwchben Pegwn y Gogledd. Gall hyn ei gwneud yn llawer haws i ddechrau llywio drwy’r sêr. Mae Seren y Gogledd yn seren lachar iawn, ac mae modd ei gweld o’r rhan fwyaf o drefi ar noson glir.  
 
-![Finding the North Star](/images/northstar.png/)
+![Finding the North Star](/images/northstar.png)
 
 14) Rhowch gyfle i’r disgyblion ymgyfarwyddo â’u map sêr a gwneud yn siŵr eu bod yn hyderus eu bod yn gwybod sut i’w ddarllen. I wirio a ydynt yn deall yr hyn maen nhw’n gweld, trafodwch y cwestiynau canlynol gyda’ch dosbarth:
 :<br>
@@ -99,3 +99,4 @@ Gan fod bellach gan y disgyblion offeryn i lywio drwy awyr y nos ar unrhyw amser
 ##### Cysylltiadau Cwricwlwm:
 
 Celf a Dylunio CA2 yng Nghwricwlwm Cenedlaethol Cymru, Gwneud: “dylunio a gwneud gwrthrychau ac arteffactau tri dimensiwn gan ddefnyddio amrywiaeth o ddeunyddiau at amrywiaeth o ddibenion”.
+

@@ -46,13 +46,13 @@ Before beginning the activity, create a DIY planetarium in your classroom by fol
 
 2) Stand an open book on the floor inside the DIY planetarium with a detailed illustration visible and stand the small figurine within the book.
 
-![Dark Skies Setup](/images/darkskies_scrn.png/)
+![Dark Skies Setup](/images/darkskies_scrn.png)
 
 3) Take the cardboard box and poke holes in the top using your pin. Create a distinctive shape (e.g. an alien, a smiley face, a common constellation). The holes will act as the stars in our night sky.
 
 4) Place a flash light inside the box so its light shines through the holes. Use tape to hold the flash light in place.
 
-![Dark Skies Setup 2](/images/darkskies_scrn2.png/)
+![Dark Skies Setup 2](/images/darkskies_scrn2.png)
 
 5) Finally, place both box and flash light inside your DIY planetarium so that the light from the flash light shines through the holes and onto the underside of the table.
 
@@ -74,10 +74,11 @@ Before beginning the activity, create a DIY planetarium in your classroom by fol
   - All are high altitude to sit above cloud cover, rainstorms etc.
   - No lampposts or public lighting at observing sites.
 
-![Observing Sites](/images/darkskies_scrn3.png/)
+![Observing Sites](/images/darkskies_scrn3.png)
 
 #### Conclusion
 
 Now that the students understand the benefits of a dark sky observing location, use the robotic telescopes to show just how impressive a good view of the night sky can be. Choose any object from the list provided on the observing website.
 
 You can also use LCOGT’s All Sky Cameras to enjoy a fantastic view of the night sky by visiting [lcogt.net/camera/](http://www.lcogt.net/camera/)
+

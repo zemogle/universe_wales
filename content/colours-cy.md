@@ -43,7 +43,7 @@ Golau fioled sy’n plygu fwyaf a golau coch sy’n plygu leiaf. Mae’r gwahani
 
 4) Daliwch y darn o bapur i fyny i ryng-gipio’r adlewyrchiad. Dylai enfys ymddangos ar y papur.
 
-![Colour Demo](/images/colour-demo.png/)
+![Colour Demo](/images/colour-demo.png)
 
 5) Esboniwch, er bod y golau a welwn o’r ffynhonnell yn ymddangos yn wyn, mewn gwirionedd mae wedi’i wneud o holl liwiau’r enfys wedi’u cyfuno. Mae’r lliwiau hyn wedi’u cuddio oddi wrthym hyd nes bod yr offer cywir yn eu datgelu (dŵr yn yr achos hwn).  
 

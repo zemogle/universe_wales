@@ -61,7 +61,7 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 	- Sut mae’r golau’n cael ei effeithio gan wahanol ddeunyddiau?
 	- Faint o’r propiau gallan nhw ddefnyddio yr un pryd, a chael y golau i gyrraedd y targed ar y wal?
 
-![How Light Travels](/images/HowLightTravels.png/)
+![How Light Travels](/images/HowLightTravels.png)
 
 5) Nesaf, gofynnwch i’r disgyblion eistedd i lawr a phylwch y golau.
 
@@ -79,7 +79,7 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 
 11) Wedi i’r gwirfoddolwr anelu’r pelydryn at y targed yn llwyddiannus, gofynnwch am wirfoddolwr arall, a rhowch ail ddrych iddi/iddo. Gofynnwch iddynt weithio gyda’i gilydd i geisio cyfeirio’r pelydryn at y targed gan ddefnyddio’r ddau ddrych.
 
-![Reflection demo](/images/Reflection-Demo.png/)
+![Reflection demo](/images/Reflection-Demo.png)
 
 12) Esboniwch, pan fo golau’n bownsio oddi ar arwyneb, y caiff hyn ei alw’n adlewyrchu. Ysgrifennwch y gair hwn ar y bwrdd.
 
@@ -87,10 +87,11 @@ Noder: Os nad oes gennych ddigon o ddeunyddiau ar gyfer sawl grŵp, neu os ydych
 
 14) Nesaf, rhowch daflen waith Telesgop Adlewyrchu (Atodiad 1) i bob disgybl. Gofynnwch iddynt luniadu’r llwybr y mae’r golau’n ei ddilyn o’r sêr i’r llygad, drwy’r telesgop, ar eu diagram o delesgop 1 metr (dylai’r canlyniad edrych yn debyg i’r ddelwedd isod), ac am lenwi’r bylchau yng Nghwestiwn 2.  
 
-![Reflector telescope diagram](/images/reflector_telescope_diagram.png/)
+![Reflector telescope diagram](/images/reflector_telescope_diagram.png)
 
 ##### Casgliad
 
 Nawr bod eich disgyblion yn deall sut mae telesgop yn gweithio, gofynnwch iddynt ddefnyddio telesgop adlewyrchu pwerus i dynnu lluniau o rai o ryfeddodau’r cosmos – y telesgopau robotig. Mae’r golau o’r gwrthrychau hyn wedi teithio am lawer o flynyddoedd cyn iddynt gael eu dal gan ein telesgopau, er mwyn rhoi pleser i chi!
 
 If you don't have access to the robotic telescopes, explore the [**LCOGT Archive**](http://lcogt.net/observations/) to see all the images collected by LCOGT telescopes, or the [**Image Gallery**](http://lcogt.net/images/space/) for a selection of the most impressive.
+

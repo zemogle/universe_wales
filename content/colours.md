@@ -47,7 +47,7 @@ Violet light bends the most and red light bends the least. The difference in ang
 
 4) Hold the piece of paper up to intercept the reflection. A rainbow should appear on the paper.
 
-![Colour Demo](/images/colour-demo.png/)
+![Colour Demo](/images/colour-demo.png)
 
 5) Explain that although the light we see from the source appears white, it is actually made up of all the colours of the rainbow combined. These colours are just hidden from us until the right tools reveal them (in this case the water).
 

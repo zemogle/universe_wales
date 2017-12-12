@@ -46,13 +46,13 @@ Cyn cychwyn ar y gweithgaredd, crëwch blanetariwm yn eich ystafell ddosbarth dr
 
 2) Gosodwch lyfr ar agor ar ei draed ar y llawr y tu mewn i’r planetariwm, gyda darlun manwl yn weledol, a gosodwch ffiguryn bach i sefyll oddi mewn i’r llyfr.  
 
-![Dark Skies Setup](/images/darkskies_scrn.png/)
+![Dark Skies Setup](/images/darkskies_scrn.png)
 
 3) Cymrwch y blwch cardbord a gwnewch dyllau yn y pen uchaf gan ddefnyddio eich pin. Crëwch siâp nodedig (e.e. aliwn, wyneb â gwen, cytser cyfarwydd). Bydd y tyllau’n efelychu’r sêr yn awyr y nos.
 
 4) Gosodwch dortsh y tu mewn i’r bocs fel bod ei golau’n disgleirio drwy’r tyllau. Defnyddiwch dâp i ddal y dortsh yn ei lle.
 
-![Dark Skies Setup 2](/images/darkskies_scrn2.png/)
+![Dark Skies Setup 2](/images/darkskies_scrn2.png)
 
 5) Yn olaf, rhowch y bocs a’r dortsh y tu mewn i’ch planetariwm fel bod y golau o’r dortsh yn disgleirio drwy’r tyllau ac yn ymddangos ar fol y bwrdd.
 
@@ -74,7 +74,7 @@ Cyn cychwyn ar y gweithgaredd, crëwch blanetariwm yn eich ystafell ddosbarth dr
   - Mae pob un ar uchder uchel fel eu bod uwchlaw cymylau, stormydd glaw ac ati.
   - Nid oes pyst lamp na goleuadau cyhoeddus ar safleoedd yr arsyllfeydd.
 
-![Observing Sites](/images/darkskies_scrn3.png/)
+![Observing Sites](/images/darkskies_scrn3.png)
 
 #### Casgliad
 
@@ -84,3 +84,4 @@ Gallwch hefyd ddefnyddio Camerâu All Sky LCOGT i fwynhau golygfa ragorol o awyr
 #### Cysylltiadau â’r Cwricwlwm:
 
 Daearyddiaeth CA2 yng Nghwricwlwm Cenedlaethol Cymru: “Deall lleoedd, amgylcheddau a phrosesau.”
+

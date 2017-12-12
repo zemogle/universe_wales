@@ -42,17 +42,17 @@ A full twelve months of calendar dates are marked on the rim of the star map. A 
 
 **Note: Make sure you cut out the white inner sections (see image below).**
 
-![Planisphere Scrn 2](/images/planisphere-scrn2.png/)
+![Planisphere Scrn 2](/images/planisphere-scrn2.png)
 
 3) Next cut out the Southern Hemisphere Star Map and the Northern Hemisphere Star Map circles on the third and fourth pages of the template.
 
 4) Stick the circles together, back-to-back with the drawings on the outside. Ensure that the months are lined up on both sides. Once done, put the inner circle to one side. 
 
-![Planisphere Scrn 4](/images/planisphere-scrn4.png/)
+![Planisphere Scrn 4](/images/planisphere-scrn4.png)
 
 5) Back to the Star Map (outside), there is a flap on the left side of each. Fold these flaps along the gold line.
 
-![Planisphere Scrn 3](/images/planisphere-scrn3.png/)
+![Planisphere Scrn 3](/images/planisphere-scrn3.png)
 
 6) Next, line-up the two sides of the Star Map Outside (coloured sides facing outwards) and glue the flaps to stick both sides together.
 
@@ -64,7 +64,7 @@ A full twelve months of calendar dates are marked on the rim of the star map. A 
 
 9) You should now have a rotating star map that can be used to find out which constellations and objects can be seen in the night sky throughout the year, in both the Northern and Southern Hemispheres!
 
-![Planisphere Scrn](/images/planisphere-scrn.png/)
+![Planisphere Scrn](/images/planisphere-scrn.png)
 
 10) To use the planisphere you will first need to choose a date, let’s start with today’s date. Find the date on the outer circle (each month has marks representing days).  
 
@@ -78,7 +78,7 @@ A full twelve months of calendar dates are marked on the rim of the star map. A 
 
 **Note: Those living on the Northern Hemisphere side are lucky to have the North Star sitting directly above the North Pole. This can make it much easier to begin navigating the stars. The North Pole is a very bright star that can even be seen inside most towns on a clear night.**
 
-![Finding the North Star](/images/northstar.png/)
+![Finding the North Star](/images/northstar.png)
 
 14) Allow your students to familiarise themselves with their star maps and ensure they are confident they know how to read them. To check they understand what they are seeing, discuss the following questions with your class:<br>
   - What does the edge of the spy window represent? (*The horizon*)</br>
@@ -92,3 +92,4 @@ Now that the students have a tool to navigate the night sky at any time or day, 
 ##### Curriculum Links
 
 [KS2 Art and Design in the Welsh National Curriculum](http://learning.gov.wales/docs/learningwales/publications/130424-art-and-design-in-the-national-curriculum-en.pdf), Making:<br> “Design and make three-dimensional objects and artefacts using a range of various materials for a variety of purposes”. </br>
+
