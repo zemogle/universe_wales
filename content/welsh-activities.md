@@ -6,7 +6,7 @@ title = "Adnoddau Cymraeg"
 tags = ['welsh-activities']
 +++
 
-Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.carrying out any background research.
+Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o weithgareddau ystafell ddosbarth ar sail seryddiaeth a digidol.
 
 ##### [Messier Bingo](/messier-bingo-cy/)
 
