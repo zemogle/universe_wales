@@ -7,10 +7,25 @@ title = "Robotic Telescope for Wales"
 
 Schools involved in *Universe in the Classroom* are being offered a unique and exciting opportunity — to explore the exotic wonders of the Universe from their classrooms using professional telescopes!
 
-[Las Cumbres Observatory](http://lco.global) runs a network of powerful robotic telescopes located around the world. Using the Internet, primary school teachers and students can control the telescopes and observe the hidden gems of the Universe using our specially designed, easy-to-use interface. Users don't need any prior knowledge of telescopes or astronomical objects, we provide everything you need to become an explorer of the skies. 
+[Las Cumbres Observatory](http://lco.global) runs a network of powerful robotic telescopes located around the world. Using the Internet, primary school teachers and students request observations of the hidden gems of the Universe from the telescopes using our specially designed platforms: **Messier Bingo** and **Project Serol**. 
 
+Users don't need any prior knowledge of telescopes or astronomical objects, we provide everything you need to become an explorer of the skies. 
 
  {{<figure src="/images/lcogt1m.jpg" title="A Las Cumbres Observatory 1-metre robotic telescopes in its dome." >}}
+
+ To use the robotic telescopes, you will need an LCO account. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk)
+
+## Messier Bingo
+
+To make it as easy as possible to carry out an observing session with your class using the robotic telescope, we’ve incorporated the experience into a game of Bingo. It’s fun and easy to play: when you see an object you like, take your own picture with just the click of a button.
+
+- [Messier Bingo Tombola](https://messierbingo.lco.global/) 
+- [How to Play Messier Bingo](/messier-bingo/)
+
+![Messier Bingo Scrn2](/images/messierbingo-scrn2.jpg)
+
+## Project Serol
+
 
 
 ## Supporting Materials

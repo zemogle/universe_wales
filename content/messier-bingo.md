@@ -13,7 +13,7 @@ To make it as easy as possible to carry out an observing session with your class
 
 ##### How to Play
 
-To use the robotic telescopes, you will need an LCOGT On Sky account. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk)
+To use the robotic telescopes, you will need an LCO account. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk)
 
 Before beginning, download and print as many bingo cards as you have players. You can find a selection of 30 Bingo cards at [**lcogt.net/education/messierbingo**](lcogt.net/education/messierbingo)
 
