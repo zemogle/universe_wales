@@ -19,11 +19,11 @@ Project Serol invites children to practise scientific skills while learning abou
 
 Throughout their journey, students will use the Las Cumbres Observatory's robotic telescopes to collect data from a variety of cosmic objects, before being challenged to analyse, investigate and drawing conclusions about their targets.
 
-Project Serol is made up of three missions, each one including a series of challenges:
+Project Serol is made up of three missions, which cover a series of astronomical targets (e.g. planets, asteroids or galaxies). To complete a challenge you must carry out a series of tasks including **observe** a target object, **identify** your image, **analyse** the data and **investigate** your findings. The missions are:
 
-1. Get to know your cosmic neighbours
-2. The life and times of stars
-3. The Universe at large
+1. **Get to know your cosmic neighbours**
+2. **The life and times of stars**
+3. **The Universe at large**
 
 For every challenge you complete, students will earn an exclusive badge to prove they;ve mastered a new skill and gone up a level on the way to becoming a cosmic explorer. To conquer a mission, you’ll need to collect all five challenge badges, you’ll then be awarded one of three unique mission patches.
 

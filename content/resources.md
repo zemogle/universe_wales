@@ -15,7 +15,7 @@ Information about how to access the Las Cumbres Observatory robotic telescopes a
 
 ##### [Project Serol](/serol/)
 
-Support materials to help educators incorporate the robotic telescopes into their classroom activities, including animated videos and a dedicated website that takes students on a journey to become real cosmic explorers. 
+Project Serol is a dedicated website that uses the robotic telescopes to take students on a journey to become real cosmic explorers.
 
 ##### [Activities](/activities/)
 
@@ -28,6 +28,14 @@ Canllawiau athrawon, taflenni gwaith myfyrwyr a deunydd ategol ar gyfer ystod o 
 ##### [Print Resources](/print-resources/)
 
 A variety of activity booklets, educational comics and cut-out models that are both educational and fun!
+
+##### [Serol's Cosmic Adventures](/serol-adventures/)
+
+A series of animated videos that teach students how to observe the night sky with the Las Cumbres Observatory robotic telescopes. Covering topics like how to find the ideal observing location, why telescopes come in different sizes, the lifecycle of stars and much more.
+
+##### [Robotic Telescope Screencasts](/serol-screencast/)
+
+A series of animated videos that teach students how to observe the night sky with the Las Cumbres Observatory robotic telescopes. Covering topics like how to find the ideal observing location, why telescopes come in different sizes, the lifecycle of stars and much more.
 
 ##### [Universe in a Box](/universe-in-a-box/)
 
