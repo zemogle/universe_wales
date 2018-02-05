@@ -1,21 +1,19 @@
 +++
 date = "2015-12-12T17:43:38Z"
 draft = false
-title = "Project Serol"
+title = "SEROL"
 
 tags = ['serol']
 
 +++
 
-*BECOME A REAL COSMIC EXPLORER*
+We've created a dedicated website called Serol that uses robotic telescopes takes students on a journey to become a real cosmic explorer! 
 
-We've created a dedicated website called Project Serol that uses robotic telescopes takes students on a journey to become a real cosmic explorer! 
-
-[**PROJECT SEROL**](https://serol.lco.global)
+<a class="button button-primary" href="https://serol.lco.global">**GO TO PROJECT SEROL WEBSITE**</a>
 
 ![serol-scrn](/images/serol-scrn.png)
 
-Project Serol invites children to practise scientific skills while learning about our place in the Universe and leaning about the wonders of the cosmos. 
+Serol invites children to practise scientific skills while learning about our place in the Universe and leaning about the wonders of the cosmos. 
 
 Throughout their journey, students will use the Las Cumbres Observatory's robotic telescopes to collect data from a variety of cosmic objects, before being challenged to analyse, investigate and drawing conclusions about their targets.
 
@@ -37,4 +35,4 @@ To use the robotic telescopes you will need an LCO account. If you are a Welsh p
 
 ## Feedback
 
-Project Serol is a resource designed based on teacher feedback throughout the 4-years Universe in the Classroom programme. The resources are designed for you, with your comments in mind, so please contact us with your feedback at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk).
+Serol is a resource designed based on teacher feedback throughout the 4-years Universe in the Classroom programme. The resources are designed for you, with your comments in mind, so please contact us with your feedback at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk).
