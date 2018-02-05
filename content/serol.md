@@ -11,13 +11,13 @@ We've created a dedicated website called Serol that uses robotic telescopes take
 
 <a class="button button-primary" href="https://serol.lco.global">**GO TO SEROL WEBSITE**</a>
 
-![serol-scrn](/images/serol-scrn.png)
-
 Serol invites children to practise scientific skills while learning about our place in the Universe and leaning about the wonders of the cosmos. 
 
 Throughout their journey, students will use the Las Cumbres Observatory's robotic telescopes to collect data from a variety of cosmic objects, before being challenged to analyse, investigate and drawing conclusions about their targets.
 
- The journey to become a cosmic explorer is made up of three missions, which cover a series of astronomical targets (e.g. planets, asteroids or galaxies). To complete a challenge you must carry out a series of tasks including **observe** a target object, **identify** your image, **analyse** the data and **investigate** your findings. The missions are:
+![serol-scrn](/images/serol-scrn.png)
+
+The journey to become a cosmic explorer is made up of three missions, which cover a series of astronomical targets (e.g. planets, asteroids or galaxies). To complete a challenge you must carry out a series of tasks including **observe** a target object, **identify** your image, **analyse** the data and **investigate** your findings. The missions are:
 
 1. **Get to know your cosmic neighbours**
 2. **The life and times of stars**
