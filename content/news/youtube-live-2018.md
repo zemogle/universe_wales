@@ -35,6 +35,8 @@ Link: https://www.youtube.com/watch?v=7dCiSio6dNQ
 
 Our new interactive website takes students on a journey to become a *real cosmic explorer* with Serol (the robot that controls our [telescopes](https://lco.global)) as their guide! Children learn about a variety of cosmic objects while practising scientific skills such as observing, analysing, investigating and drawing conclusions. More information can be found at [www.universe.wales/serol/](http://www.universe.wales/serol/)
 
+![serol-scrn](/images/serol-scrn.png)
+
 ##### Contact us
 
 If you're representing a welsh primary school and haven't yet joined Universe in the Classroom or you're struggling to find your LCO account details, contact us at [unawe@astro.cf.ac.uk](mailto:unawe@astro.cf.ac.uk)
