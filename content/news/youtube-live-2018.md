@@ -6,7 +6,7 @@ title = "Join us on Youtube LIVE"
 tags = ['youtube-live-2018']
 +++
 
-Join us on Youtube Live at **4pm** on **Thursday 8th March 2018** to hear more about [Serol's Cosmic Explorers](https://serol.lco.global).
+Join us on Youtube Live at **4pm** on **Thursday 18th April 2018** to hear more about [Serol's Cosmic Explorers](https://serol.lco.global).
 
 **Serol's Cosmic Explorers** is an interactive website that invites children to explore a variety of cosmic objects with robotic telescopes, while practising scientific skills such as observing, analysing, investigating and drawing conclusions! And we're offering free access to all welsh primary schools!  
 
@@ -15,7 +15,7 @@ Join us at 4pm on 8th March and don't forget to have your LCO account details re
 <table>
     <tr>
         <td style="background-color: #4ecdc4;border-color: #4c5764;border: 2px solid #45b7af;padding: 10px;text-align: center;">
-            <a style="display: block;color: #ffffff;font-size: 20px;text-decoration: none;text-transform: uppercase;" href="https://www.youtube.com/watch?v=7dCiSio6dNQ">
+            <a style="display: block;color: #ffffff;font-size: 20px;text-decoration: none;text-transform: uppercase;" href="https://www.youtube.com/watch?v=HAnjMYgw730">
                 Click here to watch
             </a>
         </td>
@@ -25,11 +25,11 @@ Join us at 4pm on 8th March and don't forget to have your LCO account details re
 
 ##### Event Details
 
-Date: 8th May 2018
+Date: 18th April 2018
 
 Time: 16:00
 
-Link: https://www.youtube.com/watch?v=7dCiSio6dNQ
+Link: https://www.youtube.com/watch?v=HAnjMYgw730
 
 ##### Serol's Cosmic Explorers
 
