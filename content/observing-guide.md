@@ -6,83 +6,50 @@ title = "How to Observe with LCO"
 tags = ['observing-guide']
 +++
 
-To use the robotic telescopes, you will need an LCO On Sky account (On Sky is the name of the observing website). By now, you should have received an email with your account details. If you are a Welsh primary school educator and do no yet have access to the network, or if you have any issues accessing your account, contact the Universe in the Classroom project coordinator at unawe@astro.cf.ac.uk
+##How to Use the Robotic Telescopes
 
-Before beginning, you must decide whether you want to submit your observation requests to a queue or whether you want to carry out your observations in real time. For the second option you will need to contact the project coordinator at least a couple of days in advance and they will reserve the telescope for the time and duration you require. Please do not hesitate to request a slot, just send the time, date and duration to unawe@astro.cf.ac.uk
+Distant stars and galaxies are much too far away for us to reach, everything we know about distant stars and galaxies comes from looking at the light they produce. Telescopes are the only real instruments we have to explore the Universe.
 
-<iframe width="700" height="525" src="https://www.youtube.com/embed/jiL4zqcz25g" frameborder="0" allowfullscreen></iframe>
+The Las Cumbres Observatory [https://lco.global/](https://lco.global/) is offering a unique opportunity to take students on an unforgettable journey through the cosmos. 
 
-### Instructions
+With a computer and Internet connection, you can access and control professional telescopes to take breath-taking images of the night sky without leaving your classroom. 
 
-1) Open your browser and go to [lco.global/observe/](http://lco.global/observe/)
+Below is a step-by-step guide to walk you through your first observing session using the LCO robotic telescopes. 
 
-2) Enter your **login details** as requested to access On Sky.
+####Walkthrough
 
-The first page you are directed to after logging in to On Sky is your Observation Homepage. On this page you will see your project, Universe in the Classroom, and your available telescope time (quota) in minutes. 
+1.	Begin by opening your browser of choice and going to [https://observe.lco.global](https://observe.lco.global) 
 
-**Note: If you run out of observing credit, just contact your project coordinator to request more, at [unawe@astro.cf.ac.uk](unawe@astro.cf.ac.uk)**
+2.	Enter your login details as requested to access the observing platform. The first page you are directed to upon logging is your Observation Homepage. On this page you will see any previous observations.
 
-3) Select **‘Book a Slot’** or **‘Request Observations’**. The ‘Book a Slot’ option is only relevant if you have contacted your Project Coordinator to reserve a specific time for your observations. If you have not booked a slot, skip to step 6.
+![valhalla-scrn1](/images/valhalla-scrn1.png)
 
-**Note: You must submit your observation requests at least one hour before your slot is due to begin.**
+3.	Select Submit Observations. You’ll be taken to a page displaying an observation request form. Complete the form to submit your observation request using the guide below.
 
-4) To schedule observations during your slot, return to your Homepage and scroll down to the section ‘Upcoming Slots’. Simply click the relevant time slot and skip to Step 7.
+**Title**: Begin your request by selecting a title. The title acts as a personal reference, so chose a name that you’ll remember easily in future. 
 
-###### LCO Scheduler
- 
-All telescopes in the LCO network can be scheduled as a single global entity. Although requests are made for a specific telescope class, you won’t be able to identify specific sites or telescopes. (Don’t worry, all 1-meter telescopes are identical). Instead, each observation will be scheduled on the best telescope available, and in the event of a failure due to weather or technical problems, your observation will be rebooked on the next available telescope.
+**Proposal**: Select the proposal for which you are making the request from the drop-down menu. 
 
-SEROL automatically considers all observing constraints -- such as when your target object can be observed and from which sites and the brightness of the Moon -- so you don’t have to worry about anything!
+**Instrument**: From the drop-down menu select a telescope class for which you’ve been allocated time: 2m telescopes (Spectral camera), 1m telescopes (Sinistro camera) or 0.4m telescopes (SBIG camera).
 
-5) To request observations without a scheduled slot, begin by selecting the time period within which you need your images from the options on the left-hand; side of the page: ‘24-hours’, ‘1 week’ or ‘2 weeks’.
+![valhalla-scrn7](/images/valhalla-scrn7.png)
 
-###### Time Windows
+**Target Name**: Submit the name of your target object. If you choose well-known target name the sidereal coordinates will be automatically entered into the Right Ascension and Declination fields.
 
-The Time Window is the amount of time during which the target is eligible for observation. For example, if you select a Time Window of one week your observation will be scheduled within the next week, or not at all.
+![valhalla-scrn5](/images/valhalla-scrn5.png)
 
-6) On the next page enter a request title at the top of the page and select the option ‘Add an Observation’. You will see a pop up box as shown on the image below. 
+**Filter**: Select a filter from the drop-down menu: a red filter (R), green filter (V) or blue filter. To create a full-colour astronomical image, you’ll need an observation made with each of the three filters (BVR). Duplicate the ‘Configuration’ field by clicking ![valhalla-scrn2](/images/valhalla-scrn2.png) until you have an exposure with each filter.
 
-Don’t be intimidated by the number of parameters on this page, if you don’t have a specific observational target in mind or would like to avoid having to choose filters and exposure times, you can simply select an object from the list on the right. 
+**Exposure Count**: Select the number of exposures to be made with the selected filter. 
 
-The list includes a number of stunning astronomical targets, categorised by object type: Galaxy, Star Cluster and Nebulae.
+**Exposure Time**: The exposure time is how long the shutters will stay open, in seconds. The dimmer the object, the longer the exposure time needed to capture a decent image.
 
-7) Select the object you would like to observe by clicking on its name from the list and pressing ‘Add’. Skip to step 14.
+![valhalla-scrn4](/images/valhalla-scrn4.png)
 
-8) If you would like to be adventurous and try to observe a target that is not listed, enter the name or coordinates into the relevant field.
+**Start (UT)**: The final section of the form described the time window within which the observation should be made. Enter the date at which the observing window opens from the pop-up calendar, then the hour, minute and second from the pop-up timer. 
 
-9) The next step is to select which filters you would like to use (like those on a camera). The system is automatically set to capture three images, one with a red filter (R), one with a green filter (V) and one with a blue filter (B). But you can select from a list of other filters.
+**End (UT)**: Use the pop-up menus to enter the time are which your observing window closes. 
 
-10) Now select an exposure time, this is how long the shutters will stay open. The dimmer the object, the longer the exposure time needed to capture a decent image.
+![valhalla-scrn3](/images/valhalla-scrn3.png)
 
-11) The last field asks how many of each image you would like (remember that you have limited observing time!).
-
-###### Las Cumbres Observatory global telescope network
-
- The Las Cumbres Observatory (LCO) global telescope network is made up of 11 telescopes located at 7 of the best observing sites around the world. The telescopes can be controlled robotically from anywhere in the world!
-
-13) Once you have completed the form, click Add. 
-
-14) To observe more than one object, select Add Extra Target and complete the previous steps for your new target. Note that one observation request should last no longer than 30 minutes. You can see the duration of your request at the top of the page.
-
-15) Once you have added all the targets you wish to observe, check there are no problems with your observations. If your targets have a green tick on them, you are good to go. If there is a red symbol this means there is a problem. Hover over it to find out what the problem is and resolve it. You may need to choose a new target. 
-
-16) When you’re finally ready to submit your observation request, it’s as easy as clicking Submit at the top of the page. 
-
-You will then be taken to your Submitted page, where you will find a list of all your observation requests and the status of each observation, including whether the request was cancelled or completed, and if the observation is pending or was for some reason unschedulable.
-
-
-Blue   =  Submitted but pending.
-
-Green =  Successful. Your images are waiting.
-
-Red    =  Observations failed.
-
-Black  =  Observations were cancelled by you or an administrator.
-
-17) After submitting an observation request using a pre-booked time slot, you can watch all of your observations happening in real-time. Just click on the your request from the Submitted page prior to or during the time window of your slot.
- 
-Unfortunately, you won’t be able to see through the eyepiece of the telescope, but you can watch as the telescope slews to your object via an on-site webcam while watching the progress of your observations.This page also provides a virtual view of the night sky showing the location of your target object(s)!
-
-18) When your observations are completed you can access the images by returning to your Observation Homepage. Then, just scroll down to ‘Your Recent Observations’ and click on the image you want to see.
-
-#### Well done on completing an astronomical observing session! 
+4.	You’re finally ready to submit your observation request. It’s as easy as clicking Submit at the top of the page. Once a request is submitted it cannot be edited.
