@@ -1,4 +1,4 @@
-BaseUrl= "http://www.universe.wales/"
+BaseUrl= "https://www.universe.wales/"
 LanguageCode= "en-GB"
 Title= "Universe in the Classroom"
 paginate = 5
@@ -20,7 +20,7 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-79101-12"
   hideHUGOSupport = true
   DateForm = ""
-  twitter = "http://twitter.com/unawe_cy"
+  twitter = "https://twitter.com/unawe_cy"
   colorscheme = "teal"
 
 [Date]
