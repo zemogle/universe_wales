@@ -7,17 +7,26 @@ tags = ['serol']
 
 +++
 
-We've created a dedicated website called Serol that uses robotic telescopes takes students on a journey to become a real cosmic explorer! 
+We've created a dedicated website called **Serol's Cosmic Explorers** that uses robotic telescopes takes students on a journey to become a real cosmic explorer! 
 
-<a class="button button-primary" href="https://serol.lco.global">**GO TO SEROL WEBSITE**</a>
+<table>
+    <tr>
+        <td style="background-color: #4ecdc4;border-color: #4c5764;border: 2px solid #45b7af;padding: 10px;text-align: center;">
+            <a style="display: block;color: #ffffff;font-size: 20px;text-decoration: none;text-transform: uppercase;" href="https://serol.lco.global">
+                GO TO SEROL WEBSITE
+            </a>
+        </td>
+    </tr>
+</table>
 
-![serol-scrn](/images/serol-scrn.png)
 
 Serol invites children to practise scientific skills while learning about our place in the Universe and leaning about the wonders of the cosmos. 
 
 Throughout their journey, students will use the Las Cumbres Observatory's robotic telescopes to collect data from a variety of cosmic objects, before being challenged to analyse, investigate and drawing conclusions about their targets.
 
- The journey to become a cosmic explorer is made up of three missions, which cover a series of astronomical targets (e.g. planets, asteroids or galaxies). To complete a challenge you must carry out a series of tasks including **observe** a target object, **identify** your image, **analyse** the data and **investigate** your findings. The missions are:
+![serol-scrn](/images/serol-scrn.png)
+
+The journey to become a cosmic explorer is made up of three missions, which cover a series of astronomical targets (e.g. planets, asteroids or galaxies). To complete a challenge you must carry out a series of tasks including **observe** a target object, **identify** your image, **analyse** the data and **investigate** your findings. The missions are:
 
 1. **Get to know your cosmic neighbours**
 2. **The life and times of stars**
@@ -35,4 +44,4 @@ To use the robotic telescopes you will need an LCO account. If you are a Welsh p
 
 ## Feedback
 
-Serol is a resource designed based on teacher feedback throughout the 4-year Universe in the Classroom programme. The resources are designed for you, with your comments in mind, so please contact us with your feedback at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk).
+Serol's Cosmic Explorers is a resource designed based on teacher feedback throughout the 4-year Universe in the Classroom programme. The resources are designed for you, with your comments in mind, so please contact us with your feedback at [**unawe@astro.cf.ac.uk**](mailto:unawe@astro.cf.ac.uk).
