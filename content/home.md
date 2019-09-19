@@ -6,6 +6,11 @@ title = "Welcome"
 tags = ['home']
 +++
 
+As of March 2018, Universe in the Classroom is no longer running. Although we will no longer be offering support, training programmes or school workshops, all our [classroom activities](/activities/) and [print materials](/print-resources/) are still available for use. Thank you to everyone involved in this successful programme.
+
+
+--
+
 **Universe in the Classroom is reaching out to primary schools and communities across Wales, hoping to spark a curiosity about the Universe and a passion for learning in young children.**
 
 *Universe in the Classroom* is an initiative that provides improved teaching methods and innovative tools to modernise and enhance the way STEMM subjects (science, technology, engineering, medicine and mathematics) are taught in welsh primary schools. 
