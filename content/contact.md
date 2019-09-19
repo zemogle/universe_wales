@@ -6,9 +6,10 @@ title = "Contact Us"
 tags = ['contact']
 +++
 
-If you have any questions about *Universe in the Classroom*, our workshops, CPD or resources, we'd love to hear from you.
+<p style="background-color:#E8DD53;">
+  This project has now ended.
+</p>
 
-**Email**: [unawe@cardiff.ac.uk](mailto:unawe@cardiff.ac.uk)<br>
 </br>**Address**:  School of Physics and Astronomy,
 The Queen’s Buildings,
 14-17 The Parade,
